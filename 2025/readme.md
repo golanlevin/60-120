@@ -6,7 +6,7 @@
 
 ## Key Links
 
-* [Syllabus](syllabus/60-120_spring_2025.md)
+* [Syllabus](syllabus/readme.md)
 * [OpenProcessing Classroom](https://openprocessing.org/class/95759#/) 
 
 ---
