@@ -1,19 +1,13 @@
 # Foundations of Digital Media • Spring 2025
 
-*This is the main landing page for 60-120, Section B, Spring 2025.*
+*This is the main landing page for 60-120, Section B, Spring 2025.<br />Professor Golan Levin, CMU School of Art*
   
 ---
 
 ## Key Links
 
-* [Syllabus](../syllabi/60-120_spring_2025.md)
+* [Syllabus](syllabus/60-120_spring_2025.md)
 * [OpenProcessing Classroom](https://openprocessing.org/class/95759#/) 
-
----
-
-## Daily Notes
-
-* `Tue 01/14`: TBD.
 
 ---
 
@@ -24,6 +18,13 @@
 * **Interactive Narrative**: Navigable storytelling and simple games
 * **Internet Ready-Made**: Single-serving websites and online curation
 * **Audiovisual Environment**: High-performance sound-responsive graphics
+
+---
+
+## Daily Notes
+
+* `Tue 01/14`: TBD.
+
 
 ## Assignments and Due Dates
 
