@@ -14,6 +14,11 @@
 * [Golan's notes 2022 - II](https://golancourses.net/2022f/daily-notes/unit-1/machine-learning-art-ii/)
 * [Golan's notes 2022 - III](https://golancourses.net/2022f/daily-notes/unit-1/machine-learning-art-iii/)
 
+And: 
+
+* [Golan's notes 2024, 1/18](https://golancourses.net/60120/daily-notes/unit-1/01-18/)
+* [Golan's notes 2024, 1/23](https://golancourses.net/60120/daily-notes/unit-1/01-23/)
+
 #### Assignments
 
 * [Golan's assignments (2022f)](https://golancourses.net/2022f/deliverables/1-aiart/)
