@@ -24,14 +24,15 @@
 ## Daily Notes
 
 * `Tue 01/14`: [Hello](daily_notes/0114.md)
+* `Thu 01/16`: [Generative AI](daily_notes/0116.md)
 
 ## Assignments and Due Dates
 
 * `Tue 01/14`: --
-* `Thu 01/16`: [1.0, 1.1, 1.2](assignments/generative_ai/readme.md)
-* `Tue 01/21`: [1.3, 1.4, 1.5](assignments/generative_ai/readme.md)
-* `Thu 01/23`: *No session (Golan away)*. 
-* `Tue 01/28`: [1.6](assignments/generative_ai/readme.md)
+* `Thu 01/16`: Due: [1.0](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#10-administrative-tasks), [1.1](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#11-looking-outwards-report-ai-and-the-arts), [1.2](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#12-image-to-image-exercise-with-pix2pix)
+* `Tue 01/21`: Due: [1.3](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#13-exercise-text-to-image-synthesis-with-midjourney), [1.4](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#14-exercise-image-outpainting-with-runwayml), [1.5](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#15-viewing---response)
+* `Thu 01/23`: *Work session (Golan away)*. 
+* `Tue 01/28`: **Due:** [**1.6**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#16-puppet-conditioning) (Puppets)
 * `Thu 01/30`: 
 * `---------`
 * `Tue 02/04`: 
