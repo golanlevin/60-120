@@ -23,16 +23,15 @@
 
 ## Daily Notes
 
-* `Tue 01/14`: TBD.
-
+* `Tue 01/14`: [Hello](daily_notes/0114.md)
 
 ## Assignments and Due Dates
 
-* `Tue 01/14`: 
-* `Thu 01/16`: 
-* `Tue 01/21`: 
+* `Tue 01/14`: --
+* `Thu 01/16`: [1.0, 1.1, 1.2](assignments/generative_ai/readme.md)
+* `Tue 01/21`: [1.3, 1.4, 1.5](assignments/generative_ai/readme.md)
 * `Thu 01/23`: *No session (Golan away)*. 
-* `Tue 01/28`: 
+* `Tue 01/28`: [1.6](assignments/generative_ai/readme.md)
 * `Thu 01/30`: 
 * `---------`
 * `Tue 02/04`: 
