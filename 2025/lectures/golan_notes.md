@@ -66,3 +66,8 @@ And:
 * [https://mmm.page/](https://mmm.page/)
 * [https://hotglue.me/](https://hotglue.me/)
 
+
+
+---
+
+Aram Bartholl, [PAINT Class](https://arambartholl.com/paint-figure-drawing-class/)
