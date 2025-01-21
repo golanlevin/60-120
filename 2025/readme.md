@@ -25,6 +25,7 @@
 
 * `Tue 01/14`: [Hello](daily_notes/0114.md)
 * `Thu 01/16`: [Generative AI](daily_notes/0116.md)
+* `Tue 01/21`: [Dataset Bias](daily_notes/0121.md)
 
 ## Assignments and Due Dates
 
@@ -64,9 +65,4 @@
 * `---------`
 * `On or prior to 05/05`: *Final Project Presentations.*
 
-
-<!--
-### Calendar Visual Overview: 
-
- ![Session and Due Dates](syllabus/images/60212-schedule-2024.png) -->
 
