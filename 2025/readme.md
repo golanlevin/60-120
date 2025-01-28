@@ -26,6 +26,7 @@
 * `Tue 01/14`: [Hello](daily_notes/0114.md)
 * `Thu 01/16`: [Generative AI](daily_notes/0116.md)
 * `Tue 01/21`: [Dataset Bias](daily_notes/0121.md)
+* `Tue 01/28`: [Wrapping AI; Creative Code](daily_notes/0128.md)
 
 ## Assignments and Due Dates
 
@@ -34,7 +35,7 @@
 * `Tue 01/21`: Due: [1.3](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#13-exercise-text-to-image-synthesis-with-midjourney), [1.4](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#14-exercise-image-outpainting-with-runwayml), [1.5](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#15-viewing---response)
 * `Thu 01/23`: *Work session (Golan away)*. 
 * `Tue 01/28`: **Due:** [**1.6**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#16-puppet-conditioning) (Puppets)
-* `Thu 01/30`: 
+* `Thu 01/30`: [**2.1**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code/), **2.2**
 * `---------`
 * `Tue 02/04`: 
 * `Thu 02/06`: 5:30-7:00pm: Ken Goldberg Guest Lecture. 
