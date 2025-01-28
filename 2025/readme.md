@@ -33,12 +33,12 @@
 * `Tue 01/14`: --
 * `Thu 01/16`: Due: [1.0](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#10-administrative-tasks), [1.1](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#11-looking-outwards-report-ai-and-the-arts), [1.2](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#12-image-to-image-exercise-with-pix2pix)
 * `Tue 01/21`: Due: [1.3](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#13-exercise-text-to-image-synthesis-with-midjourney), [1.4](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#14-exercise-image-outpainting-with-runwayml), [1.5](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#15-viewing---response)
-* `Thu 01/23`: *Work session (Golan away)*. 
+* `Thu 01/23`: *Work session (Golan away)*
 * `Tue 01/28`: **Due:** [**1.6**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#16-puppet-conditioning) (Puppets)
-* `Thu 01/30`: [**2.1**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code/), **2.2**
+* `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code/) (Administrative items for Unit 2)
 * `---------`
 * `Tue 02/04`: 
-* `Thu 02/06`: 5:30-7:00pm: Ken Goldberg Guest Lecture. 
+* `Thu 02/06`: 
 * `Tue 02/11`: 
 * `Thu 02/13`: 
 * `Tue 02/18`: 
@@ -49,13 +49,13 @@
 * `Tue 03/04`: *No session (Spring Break)*
 * `Thu 03/06`: *No session (Spring Break)*
 * `Tue 03/11`: 
-* `Thu 03/13`: 
+* `Thu 03/13`: 5:30-7:00pm: Ken Goldberg Guest Lecture. 
 * `Tue 03/18`: 
 * `Thu 03/20`: 
 * `Tue 03/25`: 
 * `Thu 03/27`: 
 * `---------`
-* `Tue 04/01`: 
+* `Tue 04/01`: 5:30-7:00pm: Kyle McDonald Guest Lecture. 
 * `Thu 04/03`: *No session (Spring Carnival)*
 * `Tue 04/08`: 
 * `Tue 04/10`: 

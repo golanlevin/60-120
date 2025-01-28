@@ -3,7 +3,7 @@
 This assignment has the following components: 
 
 * `01/30` 2.1: Basic Administration
-* `01/30` 2.2: Looking Outwards
+* `02/04` 2.2: Looking Outwards
 * `02/04` 2.3: Reading Response
 * `02/04` 2.4: Graphic Primitives: Toolchest Composition
 * `02/XX` 2.5: Graphic Primitives: Drawing from Life
@@ -16,13 +16,17 @@ This assignment has the following components:
 
 ---
 
-## 2.1. Basic Administration
+## 2.1. Basic Administration (Due 1/30)
+
+For **Thursday 1/30**, please make sure to have done the following: 
 
 * Create an account at OpenProcessing.org if you don’t already have one. It is recommended that you choose an anonymous public identifier.
 * Join our OpenProcessing classroom. To do this, log into your OpenProcessing account. Then locate and use the provided private “OpenProcessing Invite” to join our OpenProcessing classroom, which you can find in the `#key-information` channel in our Discord.
 * In your laptop’s web browser, bookmark our OpenProcessing classroom, whose URL is [https://openprocessing.org/class/95759#/](https://openprocessing.org/class/95759#/).
 
 ---
+
+<!--
 
 ## 2.2. Looking Outwards: Procedural Generative Art
 
@@ -47,3 +51,5 @@ For each of the following artists, spend a solid 5 minutes browsing each of thei
 * [Lia](https://www.liaworks.com/category/theprojects/)
 
 *Note: some of these artists have hundreds of projects in their linked pages. Go beyond their first page of results.*
+
+-->
