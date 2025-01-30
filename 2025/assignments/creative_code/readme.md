@@ -36,7 +36,7 @@ For **Thursday 1/30**, please make sure to have done the following:
 
 ### *(15 minutes; Due ASAP, but no later than 02/04.)*
 
-**Spend 15 minutes familiarizing yourself** with the following online resources. The goal here is simply to make sure you are *aware* of these, that you know *where* to find them, and that you know *how* they can help you. *There is no deliverable for this exercise.*
+**Spend 15 minutes familiarizing yourself** with the following online resources. The goal here is simply to make sure you are *aware* of these media, that you know *where* to find them, and that you know *how* they can help you. *There is no deliverable for this exercise.*
 
 * Here's a [p5.js **Cheat Sheet**](https://bmoren.github.io/p5js-cheat-sheet/)
 * This is the official [p5.js **Reference**](https://archive.p5js.org/reference/) (and its [newer version](https://p5js.org/reference/))
@@ -47,7 +47,7 @@ For **Thursday 1/30**, please make sure to have done the following:
 * Here are some helpful and important **YouTube tutorial channels**: 
   * The legendary [Coding Train](https://www.youtube.com/@TheCodingTrain/videos) by Dan Shiffman — featuring 1200+ videos, ranging from [this great p5.js introduction](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) to very advanced tutorials
   * [PattVira](https://www.youtube.com/@pattvira) – excellent tutorials (by a CMU alum!), including this great [introductory playlist](https://www.youtube.com/playlist?list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn)
-  * [Xin Xin](https://www.youtube.com/@xinxin1011) — some more good introductory videos
+  * [Xin Xin](https://www.youtube.com/@xinxin1011) — some more excellent introductory videos
 * Of possible interest:
   * [p5.j​​s 中文教程](https://www.youtube.com/watch?v=uEffNzLcn60&list=PLznBLb1-pQM_piONXfwND-0h3h493vO1k) by [QianQian Ye](https://qianqian-ye.com/)
   * [한국어로 된 p5.js 튜토리얼](https://www.youtube.com/watch?v=j2fbcQqzJzE&list=PLgAffhOqz2QE0o6TeDW345rcA_YBCDqnt)
@@ -153,21 +153,22 @@ Note: many of these artworks are dynamic and/or interactive, and some allow you 
 
 The purpose of this brief, low-stakes exercise is to familiarize yourself with the basic drawing primitives in p5.js. Some helpful techniques for **Locating Pixel Coordinates** and **Choosing Colors** are provided just below.
 
-* Take 5 minutes to **Explore** the [Reference](https://archive.p5js.org/reference/) materials for the p5.js basic graphics primitives — commands for: [line segment](https://archive.p5js.org/reference/#/p5/line), [rectangle](https://archive.p5js.org/reference/#/p5/rect), [rounded rect](https://archive.p5js.org/reference/#/p5/rect), [ellipse](https://archive.p5js.org/reference/#/p5/ellipse), [filled arc](https://archive.p5js.org/reference/#/p5/arc) (pac-man), [point](https://archive.p5js.org/reference/#/p5/point) (dot), [triangle](https://archive.p5js.org/reference/#/p5/triangle), [Bézier curve](https://archive.p5js.org/reference/#/p5/bezier), [spline curve](https://archive.p5js.org/reference/#/p5/curve), [polyline and polygon](https://archive.p5js.org/reference/#/p5/beginShape).
+* Take 5 minutes to **explore** the [Reference](https://archive.p5js.org/reference/) materials for the p5.js basic graphics primitives — such as commands for: [line segment](https://archive.p5js.org/reference/#/p5/line), [rectangle](https://archive.p5js.org/reference/#/p5/rect), [rounded rect](https://archive.p5js.org/reference/#/p5/rect), [ellipse](https://archive.p5js.org/reference/#/p5/ellipse), [filled arc](https://archive.p5js.org/reference/#/p5/arc) (pac-man), [point](https://archive.p5js.org/reference/#/p5/point) (dot), [triangle](https://archive.p5js.org/reference/#/p5/triangle), [Bézier curve](https://archive.p5js.org/reference/#/p5/bezier), [spline curve](https://archive.p5js.org/reference/#/p5/curve), [polyline and polygon](https://archive.p5js.org/reference/#/p5/beginShape).
 * **Start** a new project at OpenProcessing. In it, **create** a p5.js sketch with a canvas whose dimensions are no larger than 800×600 pixels. 
-* **Use** the p5.js graphics primitives to **draw** your initials. You can use whatver colors and shapes you need. (You're not being asked to make your initials look like mine!)
+* **Use** the p5.js graphics primitives to **draw** your initials. You can use whichever colors and shapes you need. (You're not being asked to make your initials look like mine!)
 * **Experiment** with your shapes’ options and parameters, such as fill and stroke colors, line weight, transparency, etc.
-* If you get stuck, **give a shout** in the `#haaaalp` channel in our Discord!
-* **Add** your sketch to the appropriate assignment ("Graphic Primitives I") [in our OpenProcessing classroom](https://openprocessing.org/class/95759/#/c/96604).
+* **Add** your sketch to the appropriate assignment slot ("Graphic Primitives I") [in our OpenProcessing classroom](https://openprocessing.org/class/95759/#/c/96604). 
+* **Make** a thumbnail icon for your project: in OpenProcessing, **click** on ⓘ, "Edit", and then the thumbnail square to capture an image of your project.
 * In the Discord channel `#2-5-initials`, **post** a screenshot of your OpenProcessing project.
+* If you get stuck anywhere, **give a shout** in the `#haaaalp` channel in our Discord!
 
-### Locating Pixel Coordinates
+### Help Locating Pixel Coordinates
 
 It can sometimes be challenging to locate the pixel coordinates you want. You may find it helpful to plan your design using [graph paper](https://print-graph-paper.com/), or by displaying your cursor's coordinates using something like the following (find the code [here](https://editor.p5js.org/golan/sketches/vvEg7XbQ4)):
 
 ![mouse-recording.gif](img/mouse-recording.gif)
 
-### Choosing Colors
+### Help Choosing Colors
 
 In can also be challenging to get the values that describe the color you want. You may find it helpful to refer to this [table of common Web colors](https://en.wikipedia.org/wiki/Web_colors#Extended_colors) (which can help you refer to colors by name) as well as the [Digital Color Meter app](https://medium.com/mac-os-x/digital-color-meter-in-mac-machine-e961bedca040) that comes with MacOS. Additionally, you can easily access a color picker by [searching for one on Google](https://www.google.com/search?q=color+picker):
 
@@ -189,6 +190,7 @@ In can also be challenging to get the values that describe the color you want. Y
 * **Create** a new p5.js sketch on OpenProcessing, with canvas dimensions that are no larger than 800×800 pixels.
 * **Create** a drawing of your scene using p5.js code and graphics primitives.
 * **Add** your sketch to the appropriate assignment ("Graphic Primitives II") [in our OpenProcessing classroom](https://openprocessing.org/class/95759/#/c/96605).
+* Remember to **make** a thumbnail icon for your OpenProcessing project!
 * **Create** a post in the Discord channel, `#2-6-life-drawing`.
 * **Embed** a screenshot of your p5.js project in your Discord post.
 * **Write** a sentence about any details you’d like to bring to our attention.
