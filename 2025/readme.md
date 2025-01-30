@@ -26,7 +26,8 @@
 * `Tue 01/14`: [Hello](daily_notes/0114.md)
 * `Thu 01/16`: [Generative AI](daily_notes/0116.md)
 * `Tue 01/21`: [Dataset Bias](daily_notes/0121.md)
-* `Tue 01/28`: [Wrapping AI; Creative Code](daily_notes/0128.md)
+* `Tue 01/28`: [Wrapping AI](daily_notes/0128.md)
+* `Thu 01/30`: [Intro Creative Code](daily_notes/0130.md)
 
 ## Assignments and Due Dates
 
