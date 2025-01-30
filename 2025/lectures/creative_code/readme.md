@@ -6,6 +6,7 @@ Here is a very small selection of some generative artworks.
 
 ![marius_watz.jpg](img/marius_watz.jpg)<br /><small>Marius Watz, [generated 3D printed sculptures](https://www.flickr.com/photos/watz/albums/72157688146756901)</small>
 
+![chang-machines.jpg](img/chang-machines.jpg)<br /><small>Michael Chang, [*Generative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)</small>
 
 ---
 
@@ -34,13 +35,13 @@ Below is [*Pixillation*](http://lillian.com/films/) (1970) by [Lillian F. Schwar
 
 ## More Recent Generative Art
 
-* Michael Chang, [G*enerative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)
-* Michael Chang, [*Generative Machines*](https://web.archive.org/web/20200513075153/http://machines.chromeexperiments.com/), 2011
+* Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) 
+* Michael Chang, [*Generative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)
 * Ilana Katz, [sketches for generative leaves](https://x.com/Lanzerel/status/1356357430351826949) (2021)
 * Matthias DÃ¶rfelt, [*Munching*](https://www.mokafolio.de/works/Munching), 2014
 * CMU Algorat Collective (Connie Ye, Char Stiles, Tatyana Mustakos, Caroline Hermans), [*Ratmaker*](https://algorat.club/ratmaker/index.html) (2018)
 * Kate Compton, [*Puppets*](http://www.galaxykate.com/apps/unpublic/puppet/index.html), 2017
-* Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) (2015), and [*Moth Generator*](https://twitter.com/mothgenerator), 2015
+* (2015), and [*Moth Generator*](https://twitter.com/mothgenerator), 2015
 * Robert Hodgin, [Growth v02](https://www.fxhash.xyz/generative/slug/growth-v02), 2022
 * Memo Akten + James Paterson, [A Strange Loop](https://www.fxhash.xyz/generative/slug/a-strange-loop) (2022)
 * Lingdong Huang, [*Shan Shui*](http://shan-shui-inf.lingdong.works/) (2018) and [photos](https://www.flickr.com/photos/creativeinquiry/albums/72157673905317117); and [*Fishdraw*](https://fishdraw.glitch.me/) (2021)
@@ -80,5 +81,4 @@ Another interesting case is *NODE10 3931* by the artist John Powers. This is a â
 
 ---
 
-(From [*Generative Artworks: A Tasting*](https://golancourses.net/60120/daily-notes/unit-2-creative-code/generative-artworks-tasting/))
-
+(Revised from [*Generative Artworks: A Tasting*](https://golancourses.net/60120/daily-notes/unit-2-creative-code/generative-artworks-tasting/))
