@@ -158,7 +158,7 @@ The purpose of this brief, low-stakes exercise is to familiarize yourself with t
 * **Use** the p5.js graphics primitives to **draw** your initials. You can use whatver colors and shapes you need. (You're not being asked to make your initials look like mine!)
 * **Experiment** with your shapes’ options and parameters, such as fill and stroke colors, line weight, transparency, etc.
 * If you get stuck, **give a shout** in the `#haaaalp` channel in our Discord!
-* **Add** your sketch to the appropriate assignment ("Graphic Primitives I") in our OpenProcessing classroom.
+* **Add** your sketch to the appropriate assignment ("Graphic Primitives I") [in our OpenProcessing classroom](https://openprocessing.org/class/95759/#/c/96604).
 * In the Discord channel `#2-5-initials`, **post** a screenshot of your OpenProcessing project.
 
 ### Locating Pixel Coordinates
@@ -188,7 +188,7 @@ In can also be challenging to get the values that describe the color you want. Y
 
 * **Create** a new p5.js sketch on OpenProcessing, with canvas dimensions that are no larger than 800×800 pixels.
 * **Create** a drawing of your scene using p5.js code and graphics primitives.
-* **Add** your sketch to the appropriate assignment ("Graphic Primitives II") in our OpenProcessing classroom.
+* **Add** your sketch to the appropriate assignment ("Graphic Primitives II") [in our OpenProcessing classroom](https://openprocessing.org/class/95759/#/c/96605).
 * **Create** a post in the Discord channel, `#2-6-life-drawing`.
 * **Embed** a screenshot of your p5.js project in your Discord post.
 * **Write** a sentence about any details you’d like to bring to our attention.
