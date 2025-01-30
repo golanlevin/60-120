@@ -4,14 +4,14 @@ This assignment has the following components:
 
 *Approximately 3 hours of effort are assigned for the beginning of class on 2/04:*
 
-* `01/30` 2.1: Basic Administration
-* `02/04` 2.2. Ecosystem Familiarization 
-* `02/04` 2.3: Looking Outwards: Generative Art
-* `02/04` 2.4: Reading Response: Artist Narratives
-* `02/04` 2.5: Graphic Primitives: Drawing Your Initials
-* `02/04` 2.6: Graphic Primitives: Drawing from Life
+* `01/30` 2.1: [Basic Administration](#21-basic-administration)
+* `02/04` 2.2. [Ecosystem Familiarization](#22-ecosystem-familiarization)
+* `02/04` 2.3: [Looking Outwards: Generative Art](#23-looking-outwards-generative-art)
+* `02/04` 2.4: [Reading Response: Artist Narratives](#24-reading-response-artist-narratives)
+* `02/04` 2.5: [Graphic Primitives: Drawing Your Initials](#25-graphic-primitives-i-drawing-your-initials)
+* `02/04` 2.6: [Graphic Primitives: Drawing from Life](#26-graphic-primitives-ii-drawing-from-life)
 
-*More details will be announced about the following:* 
+*More details will be announced about Exercises 2.7-2.12:* 
 
 * `02/XX` 2.7: Compton Reading: The Oatmeal Problem
 * `02/XX` 2.8: Galanter Reading: Generative Art Theory
