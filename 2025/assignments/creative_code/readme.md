@@ -8,10 +8,10 @@ This assignment has the following components:
 * `02/04` 2.2. [Ecosystem Familiarization](#22-ecosystem-familiarization)
 * `02/04` 2.3: [Looking Outwards: Generative Art](#23-looking-outwards-generative-art)
 * `02/04` 2.4: [Reading Response: Artist Narratives](#24-reading-response-artist-narratives)
-* `02/04` 2.5: [Graphic Primitives: Drawing Your Initials](#25-graphic-primitives-i-drawing-your-initials)
-* `02/04` 2.6: [Graphic Primitives: Drawing from Life](#26-graphic-primitives-ii-drawing-from-life)
+* `02/04` 2.5: [Graphic Primitives I: Drawing Your Initials](#25-graphic-primitives-i-drawing-your-initials)
+* `02/04` 2.6: [Graphic Primitives II: Drawing from Life](#26-graphic-primitives-ii-drawing-from-life)
 
-*More details will be announced about Exercises 2.7-2.12:* 
+*More details will be announced soon about Exercises 2.7-2.12:* 
 
 * `02/XX` 2.7: Compton Reading: The Oatmeal Problem
 * `02/XX` 2.8: Galanter Reading: Generative Art Theory
@@ -26,7 +26,7 @@ This assignment has the following components:
 
 For **Thursday 1/30**, please make sure to have done the following: 
 
-* Create an account at OpenProcessing.org if you don’t already have one. It is recommended that you choose an anonymous public identifier.
+* Create an account at [OpenProcessing.org](https://openprocessing.org) if you don’t already have one. It is recommended that you choose an anonymous public identifier.
 * Join our OpenProcessing classroom. To do this, log into your OpenProcessing account. Then locate and use the provided private “OpenProcessing Invite” to join our OpenProcessing classroom, which you can find in the `#key-information` channel in our Discord.
 * In your laptop’s web browser, bookmark our OpenProcessing classroom, whose URL is [https://openprocessing.org/class/95759#/](https://openprocessing.org/class/95759#/).
 
@@ -44,8 +44,8 @@ For **Thursday 1/30**, please make sure to have done the following:
 * ["Getting Started with p5.js"](https://openlab.citytech.cuny.edu/mtec1101-hd88-sp2022/files/2019/03/Make_Getting-Started-with-p5dotjs.pdf) **book** by Lauren Lee McCarthy: [PDF](https://openlab.citytech.cuny.edu/mtec1101-hd88-sp2022/files/2019/03/Make_Getting-Started-with-p5dotjs.pdf), [PDF](https://intronewmedia150.wordpress.com/wp-content/uploads/2019/08/gettingstartedp5.pdf).
 * [OpenProcessing](https://openprocessing.org/discover/#/trending) — a free community **sharing site** for p5.js experiments.
 * [FxHash](https://www.fxhash.xyz/marketplace) — an uncurated **marketplace** for generative art NFTs made with p5js.
-* Here are some important **YouTube tutorial channels**: 
-  * The legendary [Coding Train](https://www.youtube.com/@TheCodingTrain/videos) — featuring 1200+ videos, from [this great intro](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) to very advanced 
+* Here are some helpful and important **YouTube tutorial channels**: 
+  * The legendary [Coding Train](https://www.youtube.com/@TheCodingTrain/videos) by Dan Shiffman — featuring 1200+ videos, ranging from [this great p5.js introduction](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) to very advanced tutorials
   * [PattVira](https://www.youtube.com/@pattvira) – excellent tutorials (by a CMU alum!), including this great [introductory playlist](https://www.youtube.com/playlist?list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn)
   * [Xin Xin](https://www.youtube.com/@xinxin1011) — some more good introductory videos
 * Of possible interest:
@@ -59,13 +59,13 @@ For **Thursday 1/30**, please make sure to have done the following:
 
 ### *(45 minutes; Due Tuesday 2/04)*
 
-In this exercise, you will look at some art, and make a brief post about one that caught your eye. So, below are some collections of generative artworks. In most cases, each page presents variations produced by a single piece of software-art. *Now:*
+In this exercise, you'll look at some artworks, and make a brief post about one that caught your eye. So: below are some online collections of generative artworks. In most cases, each page presents variations produced by a single piece of software-art. *Now:*
 
 * **Browse** these pages and **select** a project you like (or which appeals to you more than the others). 
 * **Create** a post in the Discord channel `#2-3-looking-outwards`. In your post,
 * **state** the project's title and artist;
 * **provide** a link to the project's URL;
-* **write** a sentence about what you found interesting about it; and
+* **write** a sentence or two about what you found interesting about it; and
 * **include** an image or screenshot of the artwork.
 
 Note: many of these artworks are dynamic and/or interactive, and some allow you to generate new results beyond the ones already generated. For projects on the [fxhash.xyz](https://www.fxhash.xyz/) website, look for the following buttons, which (if present) will allow you to experience some projects in real-time:
@@ -94,6 +94,7 @@ Note: many of these artworks are dynamic and/or interactive, and some allow you 
 * [*Barbarians*](https://verse.works/series/barbarians-by-jacek-markusiewicz) by Jacek Markusiewicz
 * [*Mediterranean*](https://www.fxhash.xyz/generative/slug/mediterranean) by kira0 • p5js
 * [*Turner Light*](https://www.fxhash.xyz/generative/slug/turner-light) by Aluan Wang (ileivoivm) • p5js
+* [*Memories of Qilin*](https://www.artblocks.io/curated/collections/memories-of-qilin-by-emily-xie?tab=Artworks) by Emily Xie • p5js
 * [*Equinox*](https://verse.works/series/equinox-by-aluan-wang) by Aluan Wang (ileivoivm) 
 * [*Rough Cuts*](https://www.fxhash.xyz/generative/16152) by [VolatileMoods](https://www.fxhash.xyz/u/Volatile%20Moods)
 * [*Gerhard*](https://www.fxhash.xyz/generative/slug/gerhard) by Richard Nadler & Leander Herzog
@@ -108,15 +109,14 @@ Note: many of these artworks are dynamic and/or interactive, and some allow you 
 * [*Risk / Reward*](https://verse.works/series/risk--reward-by-kjetil-golid) by Kjetil Golid
 * [*Petro National*](https://verse.works/series/petro-national-by-john-gerrard-2) by John Gerrard
 * [*Paperwork*](https://verse.works/series/paperwork-by-ana-maria-caballero) by Ana María Caballero
-* [*Trossets*](https://verse.works/series/trossets-by-anna-carreras) by Anna Carreras
 * [*Subscapes*](https://verse.works/series/subscapes-by-matt-deslauriers) by Matt DesLauriers
 * [*Fragments of an Infinite Field*](https://www.artblocks.io/curated/collections/fragments-of-an-infinite-field-by-monica-rizzolli?tab=Artworks) by Monica Rizzolli • p5js
-* [*Memories of Qilin*](https://www.artblocks.io/curated/collections/memories-of-qilin-by-emily-xie?tab=Artworks) by Emily Xie • p5js
 * [*Vvttmmnn*](https://www.behance.net/gallery/79529337/vvttmmnn) by Manolo Gamboa Naon
 * [*Cirrrll*](https://www.behance.net/gallery/95976629/cirrrll) by Manolo Gamboa Naon
+* [*Naive*](https://www.artblocks.io/curated/collections/na%C3%AFve-by-olga-fradina?tab=Artworks) by Olga Fradina
 * [*Linea*](https://verse.works/series/linea-by-stuart-batchelor) by Stuart Batchelor
 * [*Geometry Runners*](https://www.artblocks.io/curated/collections/geometry-runners-by-rich-lord?tab=Artworks) by Rich Lord
-* [*Naive*](https://www.artblocks.io/curated/collections/na%C3%AFve-by-olga-fradina?tab=Artworks) by Olga Fradina
+* [*Trossets*](https://verse.works/series/trossets-by-anna-carreras) by Anna Carreras
 * [*923 Empty Rooms*](https://www.artblocks.io/curated/collections/923-empty-rooms-by-casey-reas?tab=Artworks) by Casey Reas
 * [*Gumbo*](https://www.artblocks.io/curated/collections/gumbo-by-mathias-isaksen?tab=Artworks) by Mathias Isaksen
 * [*Memories of Digital Data*](https://www.artblocks.io/curated/collections/memories-of-digital-data-by-kazuhiro-tanimoto?tab=Artworks) by Kazuhiro Tanimoto
@@ -135,7 +135,7 @@ Note: many of these artworks are dynamic and/or interactive, and some allow you 
 
 ### *(45 minutes; Due Tuesday 2/04)*
 
-**Skim** the following five articles, which were written by artists describing their process of developing specific generative artworks. **Select** just one of the narratives, and in the Discord channel `#2-4-narratives`, **write** a few sentences describing your observations and feelings about that artist’s process. Where possible, I recommend reading the **Web** versions.
+**Skim** the following five articles, which were written by artists describing their process of developing specific generative artworks. **Select** just one of the narratives, and in the Discord channel `#2-4-narratives`, **write** a few sentences describing your observations and feelings about that artist’s process. Where possible, I recommend reading the **Web** versions as they may contain videos or interactives.
 
 * Robert Hodgin, *Meander* (2020): [**Web**](https://roberthodgin.com/project/meander) / [PDF](pdf/hodgin_meander.pdf)
 * Casey Reas, *Phototaxis* (2001-2021): [**Web**](https://medium.com/@REAS/notes-on-phototaxis-db7aa7641ad8) / [PDF](pdf/reas_phototaxis.pdf)
