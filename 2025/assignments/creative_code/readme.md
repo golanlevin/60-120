@@ -36,7 +36,7 @@ For **Thursday 1/30**, please make sure to have done the following:
 
 ### *(15 minutes; Due ASAP, but no later than 02/04.)*
 
-**Spend 15 minutes familiarizing yourself** with the following online resources. The goal here is simply to make sure you are *aware* of these, that you know *where* to find them, and that you know *how* they can help you. *There is no deliverable for this exercise 2.1.*
+**Spend 15 minutes familiarizing yourself** with the following online resources. The goal here is simply to make sure you are *aware* of these, that you know *where* to find them, and that you know *how* they can help you. *There is no deliverable for this exercise.*
 
 * Here's a [p5.js **Cheat Sheet**](https://bmoren.github.io/p5js-cheat-sheet/)
 * This is the official [p5.js **Reference**](https://archive.p5js.org/reference/) (and its [newer version](https://p5js.org/reference/))
