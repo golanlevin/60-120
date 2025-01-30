@@ -181,6 +181,8 @@ In can also be challenging to get the values that describe the color you want. Y
 
 ![coding-from-life-schwulst.jpg](img/coding-from-life-schwulst.jpg)<br/><small>*[Coding from Life](https://veryinteractive.net/pages/coding-from-life.html) by Laurel Schwulst*</small>
 
+![picasso-guitar.jpg](img/picasso-guitar.jpg)<br/><small>Picasso, *Still life with Guitar* (1921)</small>
+
 ### *(45 minutes; Due Tuesday 2/04)*
 
 **Observe** a real location (such as your room or your desk) for 3-5 minutes. You will be using these observations to make a still life, interior, or landscape with code. You are encouraged to take ‘notes’ in the form of a drawing on paper. 
