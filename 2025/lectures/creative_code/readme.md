@@ -2,11 +2,11 @@
 
 Here is a very small selection of some generative artworks. 
 
-![pipkin_mirrorlake_quarter-1024x763.png](img/pipkin_mirrorlake_quarter-1024x763.png)<br /><small>Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) (2015)</small>
+[![pipkin_mirrorlake_quarter-1024x763.png](img/pipkin_mirrorlake_quarter-1024x763.png)](https://everest-pipkin.com/#games/mirrorlake.html)<br /><small>Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) (2015)</small>
 
-![marius_watz.jpg](img/marius_watz.jpg)<br /><small>Marius Watz, [generated 3D printed sculptures](https://www.flickr.com/photos/watz/albums/72157688146756901)</small>
+[![marius_watz.jpg](img/marius_watz.jpg)](https://www.flickr.com/photos/watz/albums/72157688146756901)<br /><small>Marius Watz, [generated 3D printed sculptures](https://www.flickr.com/photos/watz/albums/72157688146756901)</small>
 
-![chang-machines.jpg](img/chang-machines.jpg)<br /><small>Michael Chang, [*Generative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)</small>
+[![chang-machines.jpg](img/chang-machines.jpg)](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) <br /><small>Michael Chang, [*Generative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)</small>
 
 ---
 
@@ -35,13 +35,14 @@ Below is [*Pixillation*](http://lillian.com/films/) (1970) by [Lillian F. Schwar
 
 ## More Recent Generative Art
 
-* Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) 
+[![pipkin_moth_generator.jpg](img/pipkin_moth_generator.jpg)](https://twitter.com/mothgenerator)
+
+* Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) (2015), and [*Moth Generator*](https://twitter.com/mothgenerator) (above), 2015
 * Michael Chang, [*Generative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)
 * Ilana Katz, [sketches for generative leaves](https://x.com/Lanzerel/status/1356357430351826949) (2021)
 * Matthias Dörfelt, [*Munching*](https://www.mokafolio.de/works/Munching), 2014
 * CMU Algorat Collective (Connie Ye, Char Stiles, Tatyana Mustakos, Caroline Hermans), [*Ratmaker*](https://algorat.club/ratmaker/index.html) (2018)
 * Kate Compton, [*Puppets*](http://www.galaxykate.com/apps/unpublic/puppet/index.html), 2017
-* (2015), and [*Moth Generator*](https://twitter.com/mothgenerator), 2015
 * Robert Hodgin, [Growth v02](https://www.fxhash.xyz/generative/slug/growth-v02), 2022
 * Memo Akten + James Paterson, [A Strange Loop](https://www.fxhash.xyz/generative/slug/a-strange-loop) (2022)
 * Lingdong Huang, [*Shan Shui*](http://shan-shui-inf.lingdong.works/) (2018) and [photos](https://www.flickr.com/photos/creativeinquiry/albums/72157673905317117); and [*Fishdraw*](https://fishdraw.glitch.me/) (2021)
