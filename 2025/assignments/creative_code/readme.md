@@ -13,11 +13,11 @@ This assignment has the following components:
 
 *More details will be announced soon about Exercises 2.7-2.12:* 
 
-* `02/06` 2.7. Reading: The Oatmeal Problem
-* `02/11` 2.8. Face Generator
-* `02/18` 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
-* `02/18` 2.10. Nested Iteration With Functions: *Pattern*
-* `02/27` 2.11. Interactive Creature (Mask, Costume, or Puppet)
+* `02/06` 2.7. [Reading: The Oatmeal Problem](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#27-reading-the-oatmeal-problem)
+* `02/11` 2.8. [Face Generator](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#28-face-generator)
+* `02/18` 2.9. [Order-to-Disorder: Recoding *Schotter* (1968)](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#29-order-to-disorder-recoding-schotter-1968)
+* `02/18` 2.10. [Nested Iteration With Functions: *Pattern*](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#210-nested-iteration-with-functions-pattern)
+* `02/27` 2.11. [Interactive Creature (Mask, Costume, or Puppet)](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#211-interactive-creature-mask-costume-or-puppet)
 
 
 ---
