@@ -13,12 +13,12 @@ This assignment has the following components:
 
 *More details will be announced soon about Exercises 2.7-2.12:* 
 
-* `02/XX` 2.7: Compton Reading: The Oatmeal Problem
-* `02/XX` 2.8: Galanter Reading: Generative Art Theory
-* `02/XX` 2.9: Generative Design: Face Generator
-* `02/XX` 2.10: Generative Design: Schotter
-* `02/XX` 2.11: Generative Design: Pattern Field
-* `02/XX` 2.12: Interactive Monster
+* `02/06` 2.7. Reading: The Oatmeal Problem
+* `02/XX` 2.8. Face Generator
+* `02/XX` 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
+* `02/XX` 2.10. Nested Iteration With Functions: *Pattern*
+* `02/XX` 2.11. Interactive Creature (Mask, Costume, or Puppet)
+
 
 ---
 
@@ -212,7 +212,171 @@ In can also be challenging to get the values that describe the color you want. Y
 
 ---
 
-## More TBA on Exercises 2.7-2.12!
+## 2.7. Reading: The Oatmeal Problem
 
-***Watch this space!***
+![compton1.png](img/compton1.png)
 
+*(~30 minutes, due Thursday 2/6.)*
+
+> *“Generative art refers to any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art.”* — Philip Galanter
+
+Locate the article by Kate Compton, “So you want to build a generator…” (2016, [PDF here](pdf/kate-compton-oatmeal.pdf)). Compton’s article appears in its [complete original here](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator), but I only ask that you read the two-page section near the bottom which begins, “Aesthetics: the toughest challenge”, where she discusses oatmeal. I have also uploaded a PDF of this excerpt for you here: [kate-compton-oatmeal](pdf/kate-compton-oatmeal.pdf)). Now respond to the following question in the Discord channel `#2-7-compton-reading`, with a brief (one paragraph) response.
+
+* **Re-explain** Compton’s “10,000 Bowls of Oatmeal Problem” in your own words. Can you think of a scenario in which this might be an actual “problem”, and another in which it isn’t? 
+* **Speculate** for a moment: what do you you think are some artistic or technical strategies for overcoming this problem?
+
+![compton1.png](img/compton2.png)
+
+---
+
+# 2.8, 2.9, 2.10: Generative Designs
+
+*(8-12 hours total for all 3 exercises. Code sketches should be uploaded to OpenProcessing, and documented in Discord.)*
+
+There are three small creative coding exercises (2-8, 2-9, 2-10), all of which should be submitted through OpenProcessing. Give yourself adequate time. We will briefly discuss all of the work, but 2-10 (“Pattern”) is the main creative project that will be discussed in depth.
+
+In the appropriate Discord channel(s) please put screenshots of your sketches.
+You will likely find these helpful tools, helpful. Did you look at them?
+In the exercises in this section, I recommend you use the following structure of interaction for testing and developing your work. Whenever the user clicks, a new random drawing is made. (This is accomplished with the alternating use of noLoop() and loop().)
+
+```
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background("lightgray"); 
+  circle(random(width), random(height), 100); 
+  noLoop(); // this stops it
+}
+
+function mousePressed(){
+  loop(); // this starts it again
+}
+```
+
+---
+
+## 2.8. Face Generator
+
+*Recommended due date: Tuesday 2/11.*
+
+Consider the following:
+
+![dorfelt_moka_faces.jpg](img/dorfelt_moka_faces.jpg)
+Matthias Dörfelt’s [*Weird Faces*](https://www.mokafolio.de/works/Weird-Faces) (2012) — The artist’s attempt to recreate his doodling drawing style in code.
+
+![chernoff.png](img/chernoff.png)
+Herman Chernoff’s [multivariate face visualizations](https://en.wikipedia.org/wiki/Chernoff_face) (1973) — displays of multivariate data in the shape of a human face, whose individual parts represent values of the variables by their shape, size, placement and orientation.
+
+![hyphen_labs_pills_usjd_666x522.jpg](img/hyphen_labs_pills_usjd_666x522.jpg)
+[Hyphen Labs](http://eyeofestival.com/2018/speaker/hyphen-labs/), [*Prescribed to Death*](http://hyphen-labs.com/nsc.html) (2016): An installation in which, every 24 minutes (the frequency of U.S. opioid deaths), a script directs an onsite CNC machine to carve a novel face into an additional pill. [[Video at Eyeo 2018](https://vimeo.com/287093806), jump to 23:20]
+
+![cryptopunks.png](img/cryptopunks.png)
+Larva Labs, *Cryptopunks* (2018): 10,000 unique, computationally generated faces, some of the first NFTs.
+
+*And,*
+
+* Mark Wilson, [Meta-Face](http://mgwilson.com/Drawing%20with%20Computers.pdf) (1985): One of the earliest face generators I could find, pictured below.
+* Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021
+* Aditya Jain, [Face Generator](https://x.com/adityajainart/status/1675563610490413056), 2023
+
+![mark_wilson_metaface_dwg_w_comp_p18.png](img/mark_wilson_metaface_dwg_w_comp_p18.png)
+
+*Now:* 
+
+* In OpenProcessing, **write** code to design an image of a face or character that is parameterized by at least three dimensions of variability, but preferably more. Using the recommended code structure above, your sketch should generate a new face whenever the user presses the mouse button. Below you can see a face generator example I made.
+* **Post** a screenshot to the Discord channel, `#2-8-face-generator`. 
+* **Write** a sentence to describe your approach or to direct our attention.
+
+In making your design, you might have variables that specify the size, position, color, or other visual characteristics of the eyes, nose, and mouth. The variations in these features may be used to alter things like the face’s expression (happy, sad, angry); the face’s identity (John, Maria); and/or the face’s species (cat, monkey, zombie, alien). Give special consideration to controlling the precise shape of face parts, such as the curves of the nose, chin, ears, and jowls, and/or characteristics such as skin color, stubble, hairstyle, blemishes, interpupillary distance, facial asymmetry, cephalic index, and prognathism. Consider having continuous parameters (such as size and position of features) and discrete parameters (such as the presence of piercings, or the number of eyeballs). 
+
+[Here is a sample project](https://openprocessing.org/sketch/1656610). (I hope you can make something more interesting.)
+
+![sample-face-gen.gif](img/sample-face-gen.gif)
+
+Below are some faces by Bruno Munari. Observe how they are simple yet interesting.
+
+![munari.png](img/munari.png)
+
+---
+
+## 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
+
+*(Recommended due date: Thursday 2/13.)*
+
+*The purpose of this integrative assignment is to combine problems in nested iteration, controlling randomness, and graphical transformations, and introduce experience developing a gradient.*
+
+> Perhaps you are wondering why artists copy paintings in museums, as I am doing. The answer is to study, to learn, and to find inspiration from the great masters of the past. Copying directly from works of art gives the artists insight into the creative process — insights which cannot be learned from any other source. —Gerald King
+
+In February 1965, Georg Nees (1926–2016) became the first person to ever exhibit artwork created with a computer. His programs were written on punched paper tape before being physically generated by a drawing machine, the [Zuse Graphomat Z64 plotter](https://www.researchgate.net/figure/Automatisches-Zeichengeraet-ZUSE-Z64-flatbed-drawing-machine-Graphomat-Z64-photograph-by_fig2_328760933). (His exhibit “aroused much controversy.”)
+
+In this exercise, we will hone our skills by copying a masterwork. You are are asked to recreate Nees’ artwork *Schotter* (“Gravel”, 1968), [in the collection](http://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/) of the Victoria & Albert Museum, London. In this work, Nees presents a grid of 12 by 22 squares which delineate a gradient from order to disorder. As the drawing of the squares progresses from top to bottom, the position and rotation of the squares become increasingly disordered.
+
+[![schotter.jpg](img/schotter.jpg)](http://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
+
+*Now:*
+
+* In OpenProcessing, **create** a sketch whose dimensions are exactly 680 x 1000.
+* To the best of your abilities, **write** a program which recreates the logic and aesthetics of *Schotter*. Pay attention to details like the number and size of squares, their amount of displacement, and the proportions of the margins. (*Note*: you are not expected to reproduce the exact specific positions and rotations of each square in Nees’ artwork!)
+* **Post** a screenshot to the Discord channel, `#2-9-schotter`. 
+* **Write** a sentence to describe your approach, challenges or experience.
+
+---
+
+## 2.10. Nested Iteration With Functions: *Pattern*
+
+![freeke.png](img/freeke.png)
+
+*(Due Tuesday 2/20.)*
+
+*Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
+
+In this project, you are asked to write code to generate “infinite” variations of a tiling pattern or repetitive textural composition, as for wallpaper or fabric. Your pattern should be designed so that it could be infinitely tiled or extended. Design something you would like to put on the walls or floor of your home, or that you might imagine yourself wearing. (Images by [Saskia Freeke](https://sasj.nl/portfolio/).)
+
+* In OpenProcessing, **create** a new sketch whose dimensions are no larger than 600 x 600 pixels.
+* **Write** code that renders a simple, small visual motif. You may use any colors and shapes you please. You may work abstractly, or you can design a motif such as a leaf, flower, etc.
+Using “nested iteration”, write additional code that renders this motif numerous times, as in a grid.
+* **Add** some randomness so that each repeat of the motif is slightly different from the others.
+Optionally, if you wish, you may encapsulate the code for your motif in a “custom function”. (For more information on creating your own functions, a process also known as functional abstraction, you may refer to [Coding Train video 1](https://www.youtube.com/watch?v=wRHAitGzBrg) (12m), [Coding Train video 2](https://www.youtube.com/watch?v=zkc417YapfE) (10m), this [Example](https://p5js.org/examples/structure-functions.html), or this [Tutorial](https://happycoding.io/tutorials/p5js/creating-functions).) You are encouraged to give your function arguments that determine where the element will be positioned when the function is invoked. Using iteration, call your function to display a grid of these elements.
+* **Post** a screenshot to the Discord channel, `#2-10-pattern`. 
+* **Write** a sentence to describe your goals, approach, challenges, and/or experience.
+
+**Give consideration to:**
+
+* *Symmetry*, whether achieved through reflection or rotation. Experiment with 2D graphics transformations, such as rotation, scaling, and mirror reflections
+* *Rhythm*. Try using nested iteration to develop 2D patterns or other gridlike structures
+* *Positive vs. negative space*
+* *Foreground*, middle-ground, and background “layers”
+* *Detail at multiple scales*, i.e., variation at the macro-scale, meso-scale, and micro-scale.
+* The *potential for surprise* through the placement of infrequent features
+* Give attention to *color*. Feel free to use a palette creator, a palette extraction tool, etc.
+* *Randomness*. Give consideration to the depth of variation in your pattern, and how randomness shapes the design. After how many viewings does your pattern become predictable? How might you forestall this as long as possible? At least 3 different parameters must be subject to variation.
+
+---
+
+## 2.11. Interactive Creature (Mask, Costume, or Puppet)
+
+![Connected Worlds by Design-IO](img/DesignIO_ConnectedWorlds_11-2048x1363.jpg)
+
+*(Due Tuesday, 2/28. ~10 Hours.)*
+
+Create a virtual mask, costume, or puppet which is controlled by a user’s real-time interactive input. The input may come from any one or more of the following: the user’s camera-tracked hands, body or face; the mouse; and/or the user’s audio levels (from the microphone).
+
+The requirements are as follows:
+
+* **Sketch** first.
+* **Create** your creature at OpenProcessing. You may be helped by the technical templates on this page:
+  * [Hand tracking code](https://openprocessing.org/sketch/2185751) • [Hand puppet example](https://openprocessing.org/sketch/2187485)
+  * [Face tracking code](https://openprocessing.org/sketch/2186050) • [Face mask example](https://openprocessing.org/sketch/2187420)
+  * [Body tracking code](https://openprocessing.org/sketch/2187436) • [Body costume example](https://openprocessing.org/sketch/2187655)
+  * [Microphone input vocabularies](https://openprocessing.org/sketch/2189436)
+* **Submit** your project to the OpenProcessing collection *2.11. Interactive Creature (Mask, Costume, or Puppet)*.
+* In the Discord channel `#2-11-creature`, create a post. In the post, name your creation, and **embed** a couple screen-captured images of it. (If you can include a photo of your notebook sketches, that would be nice, too.)
+* **Link** to the OpenProcessing project for your creation.
+* **Record** a performance with your mask/puppet/costume in a brief (~10 second) screen-captured video. **Store** this in your Google Drive. Link to your video in your Discord post. Ensure that this Google Drive link is set to public.
+* **Write** a paragraph that discusses your development process, and publish this in your Discord post. What do you like best about your project? Where could it be stronger or better developed?
+
+---
+
+EOF
