@@ -1,23 +1,23 @@
-# Assignments 2.1-2.6: Creative Code
+# Assignments 2.x: Creative Code
 
-This assignment has the following components: 
+Many of these exercises have "intermediate" nominal deadlines to help you pace your work, keep you on track, and learn incrementally. Collectively, all of these exercises (2.3 through 2.11) are due by Thursday 2/27. This Unit has the following components: 
 
 *Approximately 3 hours of effort are assigned for the beginning of class on 2/04:*
 
-* `01/30` 2.1: [Basic Administration](#21-basic-administration)
-* `02/04` 2.2. [Ecosystem Familiarization](#22-ecosystem-familiarization)
-* `02/04` 2.3: [Looking Outwards: Generative Art](#23-looking-outwards-generative-art)
-* `02/04` 2.4: [Reading Response: Artist Narratives](#24-reading-response-artist-narratives)
-* `02/04` 2.5: [Graphic Primitives I: Drawing Your Initials](#25-graphic-primitives-i-drawing-your-initials)
-* `02/04` 2.6: [Graphic Primitives II: Drawing from Life](#26-graphic-primitives-ii-drawing-from-life)
+* `Thu 01/30` 2.1: [Basic Administration](#21-basic-administration)
+* `Tue 02/04` 2.2. [Ecosystem Familiarization](#22-ecosystem-familiarization)
+* `Tue 02/04` 2.3: [Looking Outwards: Generative Art](#23-looking-outwards-generative-art)
+* `Tue 02/04` 2.4: [Reading Response: Artist Narratives](#24-reading-response-artist-narratives)
+* `Tue 02/04` 2.5: [Graphic Primitives I: Drawing Your Initials](#25-graphic-primitives-i-drawing-your-initials)
+* `Tue 02/04` 2.6: [Graphic Primitives II: Drawing from Life](#26-graphic-primitives-ii-drawing-from-life)
 
-*More details will be announced soon about Exercises 2.7-2.12:* 
+*Exercises 2.7-2.11: Approximately 15 hours of effort from Feb 4-27.* 
 
-* `02/06` 2.7. [Reading: The Oatmeal Problem](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#27-reading-the-oatmeal-problem)
-* `02/11` 2.8. [Face Generator](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#28-face-generator)
-* `02/18` 2.9. [Order-to-Disorder: Recoding *Schotter* (1968)](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#29-order-to-disorder-recoding-schotter-1968)
-* `02/18` 2.10. [Nested Iteration With Functions: *Pattern*](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#210-nested-iteration-with-functions-pattern)
-* `02/27` 2.11. [Interactive Creature (Mask, Costume, or Puppet)](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#211-interactive-creature-mask-costume-or-puppet)
+* `Thu 02/06` 2.7. [Reading: The Oatmeal Problem](#27-reading-the-oatmeal-problem) (0.5 hours) 
+* `Tue 02/11` 2.8. [Face Generator](#28-face-generator) (2.5 hours)
+* `Tue 02/18` 2.9. [Order-to-Disorder: Recoding *Schotter* (1968)](#29-order-to-disorder-recoding-schotter-1968) (1 hour)
+* `Tue 02/18` 2.10. [Nested Iteration With Functions: *Pattern*](#210-nested-iteration-with-functions-pattern) (2.5 hours)
+* `Thu 02/27` 2.11. [Interactive Creature (Mask, Costume, or Puppet)](#211-interactive-creature-mask-costume-or-puppet) (8 hours)
 
 
 ---
@@ -52,6 +52,7 @@ For **Thursday 1/30**, please make sure to have done the following:
   * [p5.j​​s 中文教程](https://www.youtube.com/watch?v=uEffNzLcn60&list=PLznBLb1-pQM_piONXfwND-0h3h493vO1k) by [QianQian Ye](https://qianqian-ye.com/)
   * [한국어로 된 p5.js 튜토리얼](https://www.youtube.com/watch?v=j2fbcQqzJzE&list=PLgAffhOqz2QE0o6TeDW345rcA_YBCDqnt)
 
+---
 
 ## 2.3. Looking Outwards: Generative Art
 
@@ -129,6 +130,7 @@ Note: many of these artworks are dynamic and/or interactive, and some allow you 
 * [*Loom*](https://verse.works/series/loom-by-anna-lucia) by Anna Lucia
 
 ---
+
 ## 2.4. Reading Response: Artist Narratives
 
 ![molnar's mother's letters](img/molnar_letters.jpg)<br/><small>*Vera Molnár*</small>
@@ -216,7 +218,7 @@ In can also be challenging to get the values that describe the color you want. Y
 
 ![compton1.png](img/compton1.png)
 
-*(~30 minutes, due Thursday 2/6.)*
+### *(~30 minutes, due Thursday 2/6.)*
 
 > *“Generative art refers to any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art.”* — Philip Galanter
 
@@ -231,7 +233,7 @@ Locate the article by Kate Compton, “So you want to build a generator…” (2
 
 # 2.8, 2.9, 2.10: Generative Designs
 
-*(8-12 hours total for all 3 exercises. Code sketches should be uploaded to OpenProcessing, and documented in Discord.)*
+*(Approxmately 5 hours total for all 3 exercises. Code sketches should be uploaded to OpenProcessing, and documented in Discord.)*
 
 There are three small creative coding exercises (2-8, 2-9, 2-10), all of which should be submitted through OpenProcessing. Give yourself adequate time. We will briefly discuss all of the work, but 2-10 (“Pattern”) is the main creative project that will be discussed in depth.
 
@@ -259,7 +261,7 @@ function mousePressed(){
 
 ## 2.8. Face Generator
 
-*Recommended due date: Tuesday 2/11.*
+### *(Recommended due date: Tuesday 2/11. ~2.5 hours)*
 
 Consider the following:
 
@@ -304,7 +306,7 @@ Below are some faces by Bruno Munari. Observe how they are simple yet interestin
 
 ## 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
 
-*(Recommended due date: Tuesday 2/18.)*
+### *(Recommended due date: Tuesday 2/18. ~1 Hour.)*
 
 *The purpose of this integrative assignment is to combine problems in nested iteration, controlling randomness, and graphical transformations, and introduce experience developing a gradient.*
 
@@ -325,12 +327,11 @@ In this exercise, we will hone our skills by copying a masterwork. You are are a
 
 ---
 
-
 ## 2.10. Nested Iteration With Functions: *Pattern*
 
 ![freeke.png](img/freeke.png)
 
-*(Due Tuesday 2/18.)*
+### *(Due Tuesday 2/18. ~2.5 Hours)*
 
 *Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
 
@@ -361,7 +362,7 @@ Optionally, if you wish, you may encapsulate the code for your motif in a “cus
 
 ![Connected Worlds by Design-IO](img/DesignIO_ConnectedWorlds_11-2048x1363.jpg)
 
-*(Due Thursday, 2/27. ~10 Hours.)*
+### *(Due Thursday, 2/27. ~8 Hours.)*
 
 Create a virtual mask, costume, or puppet which is controlled by a user’s real-time interactive input. The input may come from any one or more of the following: the user’s camera-tracked hands, body or face; the mouse; and/or the user’s audio levels (from the microphone).
 
