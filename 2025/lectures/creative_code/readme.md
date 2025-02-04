@@ -1,14 +1,16 @@
 # Generative Art
 
-Here is a very small selection of some generative artworks. 
+Here is a very small selection of some generative artworks: 2D, virtual 3D, real 3D. 
 
 [![pipkin_mirrorlake_quarter-1024x763.png](img/pipkin_mirrorlake_quarter-1024x763.png)](https://everest-pipkin.com/#games/mirrorlake.html)<br /><small>Everest Pipkin, [*Mirror Lake*](https://everest-pipkin.com/#games/mirrorlake.html) (2015)</small>
 
-[![marius_watz.jpg](img/marius_watz.jpg)](https://www.flickr.com/photos/watz/albums/72157688146756901)<br /><small>Marius Watz, [generated 3D printed sculptures](https://www.flickr.com/photos/watz/albums/72157688146756901)</small>
-
 [![chang-machines.jpg](img/chang-machines.jpg)](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) <br /><small>Michael Chang, [*Generative Machines*](https://web.archive.org/web/20180214093650/https://machines.chromeexperiments.com/) (2012)</small>
 
+[![marius_watz.jpg](img/marius_watz.jpg)](https://www.flickr.com/photos/watz/albums/72157688146756901)<br /><small>Marius Watz, [generated 3D printed sculptures](https://www.flickr.com/photos/watz/albums/72157688146756901)</small>
+
 ---
+
+## Generative Art: Early Days
 
 ![mohr_1970.jpg](img/mohr_1970.jpg)<br /><small>Manfred Mohr, [P-021/A + B](http://www.emohr.com/mohr_algo_021b.html) (1969)</small>
 
@@ -27,7 +29,7 @@ Computer Art is the bastard child of CS and fine art—rejected by both parents.
 
 ![ruth_leavitt_1974.jpg](img/ruth_leavitt_1974.jpg)
 
-Below is [*Pixillation*](http://lillian.com/films/) (1970) by [Lillian F. Schwartz](https://en.wikipedia.org/wiki/Lillian_Schwartz) (1927-2024). Lillian F. Schwartz is one of the first people to create computer animation. At the time, the idea of using computers to make animation was considered radically wasteful. As a long-term resident artist at Bell Laboratories during the 70s and 80s, Schwartz developed a catalogue of visionary techniques for the use of computational form.
+Below is [*Pixillation*](http://lillian.com/films/) (1970) by [Lillian F. Schwartz](https://en.wikipedia.org/wiki/Lillian_Schwartz) (1927-2024). Lillian F. Schwartz is one of the first people to create computer animation. At the time, the idea of using computers to make animation was considered radically wasteful. As a long-term resident artist at Bell Laboratories during the 70s and 80s, Schwartz developed a catalogue of visionary techniques for the use of computational form. ([Watch first video on this page](http://lillian.com/films/).)
 
 ![lillian-schwartz-pixillation.gif](img/lillian-schwartz-pixillation.gif)
 

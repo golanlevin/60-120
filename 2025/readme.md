@@ -28,6 +28,7 @@
 * `Tue 01/21`: [Dataset Bias](daily_notes/0121.md)
 * `Tue 01/28`: [Wrapping AI](daily_notes/0128.md)
 * `Thu 01/30`: [Intro Creative Code](daily_notes/0130.md)
+* `Tue 02/04`: [Creative Coding in p5.js](daily_notes/0204.md)
 
 ## Assignments and Due Dates
 
