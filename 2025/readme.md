@@ -46,7 +46,7 @@
 * `Tue 02/18`: Due: [2.9](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#29-order-to-disorder-recoding-schotter-1968), [2.10](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#210-nested-iteration-with-functions-pattern)
 * `Thu 02/20`: 
 * `Tue 02/25`: 
-* `Thu 02/27`: Due: [**2.11**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#211-interactive-creature-mask-costume-or-puppet) (Inteactive Creature)
+* `Thu 02/27`: Due: [**2.11**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#211-interactive-creature-mask-costume-or-puppet) (Interactive Creature)
 * `---------`
 * `Tue 03/04`: *No session (Spring Break)*
 * `Thu 03/06`: *No session (Spring Break)*
