@@ -14,10 +14,10 @@ This assignment has the following components:
 *More details will be announced soon about Exercises 2.7-2.12:* 
 
 * `02/06` 2.7. Reading: The Oatmeal Problem
-* `02/XX` 2.8. Face Generator
-* `02/XX` 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
-* `02/XX` 2.10. Nested Iteration With Functions: *Pattern*
-* `02/XX` 2.11. Interactive Creature (Mask, Costume, or Puppet)
+* `02/11` 2.8. Face Generator
+* `02/18` 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
+* `02/18` 2.10. Nested Iteration With Functions: *Pattern*
+* `02/27` 2.11. Interactive Creature (Mask, Costume, or Puppet)
 
 
 ---
@@ -301,9 +301,10 @@ Below are some faces by Bruno Munari. Observe how they are simple yet interestin
 
 ---
 
+
 ## 2.9. Order-to-Disorder: Recoding *Schotter* (1968)
 
-*(Recommended due date: Thursday 2/13.)*
+*(Recommended due date: Tuesday 2/18.)*
 
 *The purpose of this integrative assignment is to combine problems in nested iteration, controlling randomness, and graphical transformations, and introduce experience developing a gradient.*
 
@@ -324,11 +325,12 @@ In this exercise, we will hone our skills by copying a masterwork. You are are a
 
 ---
 
+
 ## 2.10. Nested Iteration With Functions: *Pattern*
 
 ![freeke.png](img/freeke.png)
 
-*(Due Tuesday 2/20.)*
+*(Due Tuesday 2/18.)*
 
 *Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
 
@@ -359,7 +361,7 @@ Optionally, if you wish, you may encapsulate the code for your motif in a “cus
 
 ![Connected Worlds by Design-IO](img/DesignIO_ConnectedWorlds_11-2048x1363.jpg)
 
-*(Due Tuesday, 2/28. ~10 Hours.)*
+*(Due Thursday, 2/27. ~10 Hours.)*
 
 Create a virtual mask, costume, or puppet which is controlled by a user’s real-time interactive input. The input may come from any one or more of the following: the user’s camera-tracked hands, body or face; the mouse; and/or the user’s audio levels (from the microphone).
 
