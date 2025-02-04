@@ -288,6 +288,7 @@ Larva Labs, *Cryptopunks* (2018): 10,000 unique, computationally generated faces
 *Now:* 
 
 * In OpenProcessing, **write** code to design an image of a face or character that is parameterized by at least three dimensions of variability, but preferably more. Using the recommended code structure above, your sketch should generate a new face whenever the user presses the mouse button. Below you can see a face generator example I made.
+* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96710). 
 * **Post** a screenshot to the Discord channel, `#2-8-face-generator`. 
 * **Write** a sentence to describe your approach or to direct our attention.
 
@@ -322,6 +323,7 @@ In this exercise, we will hone our skills by copying a masterwork. You are are a
 
 * In OpenProcessing, **create** a sketch whose dimensions are exactly 680 x 1000.
 * To the best of your abilities, **write** a program which recreates the logic and aesthetics of *Schotter*. Pay attention to details like the number and size of squares, their amount of displacement, and the proportions of the margins. (*Note*: you are not expected to reproduce the exact specific positions and rotations of each square in Nees’ artwork!)
+* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96711). 
 * **Post** a screenshot to the Discord channel, `#2-9-schotter`. 
 * **Write** a sentence to describe your approach, challenges or experience.
 
@@ -342,6 +344,7 @@ In this project, you are asked to write code to generate “infinite” variatio
 Using “nested iteration”, write additional code that renders this motif numerous times, as in a grid.
 * **Add** some randomness so that each repeat of the motif is slightly different from the others.
 Optionally, if you wish, you may encapsulate the code for your motif in a “custom function”. (For more information on creating your own functions, a process also known as functional abstraction, you may refer to [Coding Train video 1](https://www.youtube.com/watch?v=wRHAitGzBrg) (12m), [Coding Train video 2](https://www.youtube.com/watch?v=zkc417YapfE) (10m), this [Example](https://p5js.org/examples/structure-functions.html), or this [Tutorial](https://happycoding.io/tutorials/p5js/creating-functions).) You are encouraged to give your function arguments that determine where the element will be positioned when the function is invoked. Using iteration, call your function to display a grid of these elements.
+* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96712). 
 * **Post** a screenshot to the Discord channel, `#2-10-pattern`. 
 * **Write** a sentence to describe your goals, approach, challenges, and/or experience.
 
@@ -374,7 +377,7 @@ The requirements are as follows:
   * [Face tracking code](https://openprocessing.org/sketch/2186050) • [Face mask example](https://openprocessing.org/sketch/2187420)
   * [Body tracking code](https://openprocessing.org/sketch/2187436) • [Body costume example](https://openprocessing.org/sketch/2187655)
   * [Microphone input vocabularies](https://openprocessing.org/sketch/2189436)
-* **Submit** your project to the OpenProcessing collection *2.11. Interactive Creature (Mask, Costume, or Puppet)*.
+* **Submit** your project to the [correct OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96713).
 * In the Discord channel `#2-11-creature`, create a post. In the post, name your creation, and **embed** a couple screen-captured images of it. (If you can include a photo of your notebook sketches, that would be nice, too.)
 * **Link** to the OpenProcessing project for your creation.
 * **Record** a performance with your mask/puppet/costume in a brief (~10 second) screen-captured video. **Store** this in your Google Drive. Link to your video in your Discord post. Ensure that this Google Drive link is set to public.
