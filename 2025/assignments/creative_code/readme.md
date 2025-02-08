@@ -11,10 +11,11 @@ Many of these exercises have "intermediate" nominal deadlines to help you pace y
 * `Tue 02/04` 2.5: [Graphic Primitives I: Drawing Your Initials](#25-graphic-primitives-i-drawing-your-initials)
 * `Tue 02/04` 2.6: [Graphic Primitives II: Drawing from Life](#26-graphic-primitives-ii-drawing-from-life)
 
-*Exercises 2.7-2.11: Approximately 15 hours of effort from Feb 4-27.* 
+*Exercises 2.7-2.11: Approximately 16 hours of effort from Feb 4-27.* 
 
-* `Thu 02/06` 2.7. [Reading: The Oatmeal Problem](#27-reading-the-oatmeal-problem) (0.5 hours) 
-* `Tue 02/11` 2.8. [Face Generator](#28-face-generator) (2.5 hours)
+* `Thu 02/06` 2.7. [Reading: The Oatmeal Problem](#27-reading-the-oatmeal-problem) (0.5 hours)
+* `Tue 02/11` 2.7E. [Exercises](#27E-in-class-exercises) — Ungraded Exercises from Class
+* `Thu 02/13` 2.8. [Face Generator](#28-face-generator) (2.5 hours)
 * `Tue 02/18` 2.9. [Order-to-Disorder: Recoding *Schotter* (1968)](#29-order-to-disorder-recoding-schotter-1968) (1 hour)
 * `Tue 02/18` 2.10. [Nested Iteration With Functions: *Pattern*](#210-nested-iteration-with-functions-pattern) (2.5 hours)
 * `Thu 02/27` 2.11. [Interactive Creature (Mask, Costume, or Puppet)](#211-interactive-creature-mask-costume-or-puppet) (8 hours)
@@ -231,6 +232,12 @@ Locate the article by Kate Compton, “So you want to build a generator…” (2
 
 ---
 
+## 2.7E. In-Class Exercises
+
+For Tuesday 02/11, try to complete as many of the [In-Class Exercises](https://github.com/golanlevin/60-120/blob/main/2025/daily_notes/0206.md#in-class-exercises) as you can. This will not be graded, but it will be extremely educational and helpful practice.
+
+---
+
 # 2.8, 2.9, 2.10: Generative Designs
 
 *(Approxmately 5 hours total for all 3 exercises. Code sketches should be uploaded to OpenProcessing, and documented in Discord.)*
@@ -257,11 +264,13 @@ function mousePressed(){
 }
 ```
 
+
+
 ---
 
 ## 2.8. Face Generator
 
-### *(Recommended due date: Tuesday 2/11. ~2.5 hours)*
+### *(Recommended due date: Thursday 2/13. ~2.5 hours)*
 
 Consider the following:
 
