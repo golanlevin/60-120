@@ -42,8 +42,8 @@
 * `---------`
 * `Tue 02/04`: Due: [2.2](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#22-ecosystem-familiarization), [2.3](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#23-looking-outwards-generative-art), [2.4](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#24-reading-response-artist-narratives), [2.5](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#25-graphic-primitives-i-drawing-your-initials), [2.6](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#26-graphic-primitives-ii-drawing-from-life)
 * `Thu 02/06`: Due: [2.7](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#27-reading-the-oatmeal-problem)
-* `Tue 02/11`: Due: [2.8](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#28-face-generator)
-* `Thu 02/13`: 
+* `Tue 02/11`: Due: [2.7E](https://github.com/golanlevin/60-120/blob/main/2025/daily_notes/0206.md#in-class-exercises) (Completion of In-Class Exercises)
+* `Thu 02/13`: Due: [2.8](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#28-face-generator)
 * `Tue 02/18`: Due: [2.9](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#29-order-to-disorder-recoding-schotter-1968), [2.10](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#210-nested-iteration-with-functions-pattern)
 * `Thu 02/20`: 
 * `Tue 02/25`: 
