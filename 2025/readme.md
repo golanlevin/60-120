@@ -30,6 +30,7 @@
 * `Thu 01/30`: [Intro Creative Code](daily_notes/0130.md)
 * `Tue 02/04`: [p5.js; Generative Art](daily_notes/0204.md)
 * `Thu 02/06`: [Creative Coding: practice](daily_notes/0206.md)
+* `Tue 02/11`: [Creative Coding: practice & worksession](daily_notes/0211.md)
 
 ## Assignments and Due Dates
 
