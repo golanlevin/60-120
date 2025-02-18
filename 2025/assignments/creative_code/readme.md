@@ -382,10 +382,13 @@ The requirements are as follows:
 
 * **Sketch** first.
 * **Create** your creature at OpenProcessing. You may be helped by the technical templates on this page:
-  * [Hand tracking code](https://openprocessing.org/sketch/2185751) • [Hand puppet example](https://openprocessing.org/sketch/2187485)
+  * [Hand tracking code](https://openprocessing.org/sketch/2547157) • [Hand puppet example](https://openprocessing.org/sketch/2187485)
   * [Face tracking code](https://openprocessing.org/sketch/2186050) • [Face mask example](https://openprocessing.org/sketch/2187420)
   * [Body tracking code](https://openprocessing.org/sketch/2187436) • [Body costume example](https://openprocessing.org/sketch/2187655)
+  * [Advanced face analysis code](https://openprocessing.org/sketch/2066195)
+  * Simple microphone [demo 1](https://openprocessing.org/sketch/2189445) • [demo 2](https://openprocessing.org/sketch/2191104)
   * [Microphone input vocabularies](https://openprocessing.org/sketch/2189436)
+  * [Cursor interaction vocabularies](https://openprocessing.org/sketch/2189719)
 * **Submit** your project to the [correct OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96713).
 * In the Discord channel `#2-11-creature`, create a post. In the post, name your creation, and **embed** a couple screen-captured images of it. (If you can include a photo of your notebook sketches, that would be nice, too.)
 * **Link** to the OpenProcessing project for your creation.
