@@ -34,6 +34,7 @@
 * `Thu 02/13`: [Creative Coding: nested iteration, pattern](daily_notes/0213.md)
 * `Tue 02/18`: [Creative Coding: tracking](daily_notes/0218.md)
 * `Thu 02/20`: [Gestural interaction, body tracking](daily_notes/0220.md)
+* `Tue 02/25`: [Creative Coding workday](daily_notes/0225.md)
 
 ## Assignments and Due Dates
 
