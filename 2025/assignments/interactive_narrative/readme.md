@@ -4,10 +4,12 @@
 
 This Unit has 4 deliverables:
 
-* [**Looking Outwards: Bitsy Games**]() (due Thursday, March 13; 2 hours)
-* [**Bitsy Tutorial**]() (due Tuesday, March 18; 2 hours)
-* [***Draft*** **of Interactive Narrative/Game**]() (due Tuesday, March 25; 8 hours)
-* [**Interactive Narrative/Game**]() (due Tuesday, April 1; 10 hours)
+
+
+* [**Looking Outwards: Bitsy Games**](#31-looking-outwards) (due Thursday, March 13; 2 hours)
+* [**Bitsy Tutorial**](#32-bitsy-tutorial) (due Tuesday, March 18; 2 hours)
+* [***Draft*** **of Interactive Narrative/Game**](#33-draft-of-interactive-narrativegame) (due Tuesday, March 25; 8 hours)
+* [**Interactive Narrative/Game**](#34-interactive-narrative-game) (due Tuesday, April 1; 10 hours)
 
 ![bitsy_mystery_dungeon.png](img/bitsy_mystery_dungeon.png)
 
