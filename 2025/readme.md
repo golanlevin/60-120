@@ -43,37 +43,40 @@
 * `Tue 01/14`: --
 * `Thu 01/16`: Due: [1.0](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#10-administrative-tasks), [1.1](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#11-looking-outwards-report-ai-and-the-arts), [1.2](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#12-image-to-image-exercise-with-pix2pix)
 * `Tue 01/21`: Due: [1.3](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#13-exercise-text-to-image-synthesis-with-midjourney), [1.4](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#14-exercise-image-outpainting-with-runwayml), [1.5](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#15-viewing---response)
-* `Thu 01/23`: *Work session (Golan away)*
-* `Tue 01/28`: **Due:** [**1.6**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#16-puppet-conditioning) (Puppets)
-* `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code/) (Administrative items for Unit 2)
+* *`Thu 01/23`*: *Work session (Golan away)*
+* `Tue 01/28`: Due: [1.6](https://github.com/golanlevin/60-120/tree/main/2025/assignments/generative_ai#16-puppet-conditioning) (Puppets)
 * `---------`
+* `Thu 01/30`: Due: [2.1](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code/) (Administrative items for Unit 2)
 * `Tue 02/04`: Due: [2.2](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#22-ecosystem-familiarization), [2.3](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#23-looking-outwards-generative-art), [2.4](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#24-reading-response-artist-narratives), [2.5](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#25-graphic-primitives-i-drawing-your-initials), [2.6](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#26-graphic-primitives-ii-drawing-from-life)
 * `Thu 02/06`: Due: [2.7](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#27-reading-the-oatmeal-problem)
 * `Tue 02/11`: Due: [2.7E](https://github.com/golanlevin/60-120/blob/main/2025/daily_notes/0206.md#in-class-exercises) (Completion of In-Class Exercises)
 * `Thu 02/13`: Due: [2.8](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#28-face-generator)
 * `Tue 02/18`: Due: [2.9](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#29-order-to-disorder-recoding-schotter-1968), [2.10](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#210-nested-iteration-with-functions-pattern)
-* `Thu 02/20`: 
-* `Tue 02/25`: 
-* `Thu 02/27`: Due: [**2.11**](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#211-interactive-creature-mask-costume-or-puppet) (Interactive Creature)
+* `Thu 02/20`: --
+* `Tue 02/25`: --
+* `Thu 02/27`: Due: [2.11](https://github.com/golanlevin/60-120/tree/main/2025/assignments/creative_code#211-interactive-creature-mask-costume-or-puppet) (Interactive Creature)
 * `---------`
-* `Tue 03/04`: *No session (Spring Break)*
-* `Thu 03/06`: *No session (Spring Break)*
-* `Tue 03/11`: 
-* `Thu 03/13`: 5:30-7:00pm: Ken Goldberg Guest Lecture. 
-* `Tue 03/18`: 
-* `Thu 03/20`: 
-* `Tue 03/25`: 
-* `Thu 03/27`: 
+* *`Tue 03/04`*: *No session (Spring Break)*
+* *`Thu 03/06`*: *No session (Spring Break)*
 * `---------`
-* `Tue 04/01`: 5:30-7:00pm: Kyle McDonald Guest Lecture. 
-* `Thu 04/03`: *No session (Spring Carnival)*
-* `Tue 04/08`: 
-* `Tue 04/10`: 
-* `Tue 04/15`: 
-* `Tue 04/17`: 
-* `Tue 04/22`: 
-* `Tue 04/24`: 
+* `Tue 03/11`: --
+* `Thu 03/13`: Due: [3.1. Looking Outwards: Bitsy Games](assignments/interactive_narrative/readme.md#31-looking-outwards)
+* `Tue 03/18`: Due: [3.2. Bitsy Tutorial](assignments/interactive_narrative/readme.md#32-bitsy-tutorial)
+* `Thu 03/20`: Due: [3.3. Research Phase](assignments/interactive_narrative/readme.md#33-research-phase) 
+* `Tue 03/25`: Due: [3.4. Draft of Interactive Narrative/Game](assignments/interactive_narrative/readme.md#34-draft-of-interactive-narrativegame)
+* `Thu 03/27`: *Work session*
+* `Tue 04/01`: **Due:** [**3.5. Interactive Narrative/Game**](assignments/interactive_narrative/readme.md#35-interactive-narrative-game).
+* *`Thu 04/03`*: *No session (Spring Carnival)*
 * `---------`
-* `On or prior to 05/05`: *Final Project Presentations.*
+* `Tue 04/08`: Due: 4.1. Internet Curation Materials
+* `Thu 04/10`: **Due: 4.2. Internet Curation Speed Project**
+* `---------`
+* `Tue 04/15`: Due: 5.1. Looking Outwards: TouchDesigner
+* `Thu 04/17`: 
+* `Tue 04/22`: Due: 5.2. TouchDesigner Tutorial
+* `Thu 04/24`: 
+* *`Tue 04/29`*: *Out-of-class help session*
+* *`Thu 05/01`*: *Out-of-class help session*
+* `Mon 05/05`: **Due: 5.3. Audiovisual System**
 
 
