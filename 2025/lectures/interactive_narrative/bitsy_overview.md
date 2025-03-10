@@ -13,9 +13,9 @@
 
 ### Everest's Introduction
 
-Everest Pipkin is an alum of our MFA program here at CMU; they currently teach new media arts at Pratt. In this 3-minute video, [Everest presents Bitsy](https://www.youtube.com/watch?v=OTrarCW8fD8):
+Everest Pipkin is an alum of our MFA program here at CMU; they currently teach new media arts at Pratt. In this 3-minute video, [Everest presents Bitsy](https://www.youtube.com/watch?v=OTrarCW8fD8&t=16s):
 
-[![Everest Pipkin presents Bitsy](https://img.youtube.com/vi/OTrarCW8fD8/hqdefault.jpg)](https://www.youtube.com/watch?v=OTrarCW8fD8)
+[![Everest Pipkin presents Bitsy](https://img.youtube.com/vi/OTrarCW8fD8/hqdefault.jpg)](https://www.youtube.com/watch?v=OTrarCW8fD8&t=16s)
 
 
 --- 
