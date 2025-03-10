@@ -36,6 +36,7 @@
 * `Thu 02/20`: [Gestural interaction, body tracking](daily_notes/0220.md)
 * `Tue 02/25`: [Creative Coding workday](daily_notes/0225.md)
 * `Thu 02/27`: [Pattern & Tracking Projects; Looking ahead](daily_notes/0227.md)
+* `Tue 03/11`: [Interactive Narrative: Hello Bitsy](daily_notes/0311.md)
 
 ## Assignments and Due Dates
 

@@ -2,14 +2,16 @@
 
 ---
 
-This Unit has 4 deliverables:
+*In this unit, we will create interactive narratives. You can think of these as short games, or playable stories, or branching narratives, or time-based illustrations, or graphic novels with contingency....*
+
+This unit extends through Tuesday April 1st, and has four deliverables:
 
 
-
-* [**Looking Outwards: Bitsy Games**](#31-looking-outwards) (due Thursday, March 13; 2 hours)
-* [**Bitsy Tutorial**](#32-bitsy-tutorial) (due Tuesday, March 18; 2 hours)
-* [***Draft*** **of Interactive Narrative/Game**](#33-draft-of-interactive-narrativegame) (due Tuesday, March 25; 8 hours)
-* [**Interactive Narrative/Game**](#34-interactive-narrative-game) (due Tuesday, April 1; 10 hours)
+* [**3.1. Looking Outwards: Bitsy Games**](#31-looking-outwards) *(due Thursday, March 13; ~1.5 hours)*
+* [**3.2. Bitsy Tutorial**](#32-bitsy-tutorial) *(due Tuesday, March 18; ~2 hours)*
+* [**3.3. Pair of Project Ideas**](#33-pair-of-project-ideas) *(due Thursday, March 20; ~30 minutes)*
+* [**3.4. Draft of Interactive Narrative/Game**](#34-draft-of-interactive-narrativegame) *(due Tuesday, March 25; ~6 hours)*
+* [**3.5. Interactive Narrative/Game**](#35-interactive-narrative-game) *(due Tuesday, April 1; ~10 hours)*
 
 ![bitsy_mystery_dungeon.png](img/bitsy_mystery_dungeon.png)
 
@@ -17,7 +19,7 @@ This Unit has 4 deliverables:
 
 ## 3.1. Looking Outwards
 
-*(This is due Thursday, March 13. Estimated time is 2 hours)*
+*(This is due Thursday, March 13. Estimated time is 1.5 hours.)*
 
 **Browse** the following sites. **View** a variety of games linked therefrom. **Select** three (3) games that you find compelling. In the Discord channel `#3-1-looking-outwards`, **discuss** what you appreciate about them — perhaps **write** one or two sentences for each. **Include** a screenshot of each of your chosen games.
 
@@ -25,23 +27,8 @@ This Unit has 4 deliverables:
 * [Lorenzo Pilia’s Bitsy Faves pt.2](https://itch.io/c/232207/bitsy-faves-pt2-20192024) (2019–2024)
 * [Top games tagged Bitsy](https://itch.io/games/tag-bitsy) on Itch.io *(5491 results as of 2/2025!)*
 * [More Bitsy games, tricks, and software](https://itch.io/search?q=bitsy) on Itch.io
-* [Claire Morwood’s "Cool examples of cool games"](https://www.shimmerwitch.space/bitsyTutorial.html) (bottom of page)
-* This short list curated by CMU Prof. Paolo Pedercini: 
-  * [7 things I mistake for my cats](https://w.itch.io/7-things) (a fun intro to bitsy)
-  * [What’s up in a Kharkiv bomb shelter](https://dahuanna.itch.io/whats-up-in-a-kharkiv-bomb-shelter) (documentary)
-  * [Junk Shop Telescope](https://cephalopodunk.itch.io/junk-shop-telescope) (playing with scale)
-  * [Spiral house](https://withering-systems.itch.io/spiral-house) (playing with abstraction by CMU alum Everest Pipkin)
-  * [A gallery visit](https://raulhaagensen.itch.io/a-gallery-visit) (not only top down)
-  * [Novena](https://haraiva.itch.io/novena) (playing with repetition)
-  * [Continental Drift](https://haraiva.itch.io/continental-drift) (autobiographical)
-  * [Moss as texture as space folding onto itself](https://polclarissou.itch.io/moss-as-texture-as-space-folding-onto-itself) (playing with patterns and abstraction)
-  * [Roomba Quest](https://st33d.itch.io/roomba-quest) (puzzle)
-  * [Our Damned Machine](https://sophieh.itch.io/our-damned-machine) (environmental piece)
-  * [The last human touch](https://cephalopodunk.itch.io/silence-would-be-better) (time travel)
-  * [Cinerarium of solaris](https://sumaleth.itch.io/cinerarium) (magical realism)
-  * [A prison strike](https://molleindustria.itch.io/a-prison-strike) (by prof. Pedercini)
-  * [A holiday yarn](https://seansleblanc.itch.io/a-holiday-yarn) (visual hack)
-  * [Castle of the water monk](https://thatsmaik.itch.io/caste-of-the-water-monks) (made with [bitsy3D](https://bitsy3d.xyz/))
+* [Claire Morwood’s "Cool examples of cool games"](https://www.shimmerwitch.space/bitsyTutorial.html) (see bottom of page)
+
 
 ---
 
@@ -56,6 +43,8 @@ Complete Cecile Richards’ [Bitsy Workshop Tutorial (PDF)](pdf/bitsy_workshop_b
 A creatively-imagined game is NOT requested here; this exercise (3.2) is purely technical.
 
 <!-- 
+
+https://www.shimmerwitch.space/bitsyTutorial.html
 
 Nevertheless, you should show that you are able to do all of the following tasks, at a minimum:
 
@@ -76,9 +65,15 @@ Write another sentence—looking ahead to the next two weeks—that briefly desc
 
 ---
 
-## 3.3. *Draft* of Interactive Narrative/Game
+## 3.3. Pair of Project Ideas
 
-*(This is due Tuesday, March 25. Estimated time: 8 hours)*
+*(This is due Thursday, March 20. Estimated time: 30 minutes.)*
+
+---
+
+## 3.4. *Draft* of Interactive Narrative/Game
+
+*(This is due Tuesday, March 25. Estimated time: 6 hours.)*
 
 ### **DETAILS TBA.**
 
@@ -166,7 +161,7 @@ How do I read out items and variables (and drawings) as part of the dialogue?
 
 ---
 
-## 3.4. Interactive Narrative Game
+## 3.5. Interactive Narrative Game
 
 *(For Tuesday April 1, you should revise and publish your interactive Bitsy experience. Estimated time: 10 hours.)*
 

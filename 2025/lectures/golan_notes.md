@@ -49,7 +49,7 @@ And:
 
 * [https://make.bitsy.org/](https://make.bitsy.org/)
 * [Paolo's Bitsy lecture](https://mycours.es/digitalmedia/bitsy/)
-
+* https://web.archive.org/web/20241106051256/https://golancourses.net/60120/
 
 ---
 
@@ -59,6 +59,7 @@ And:
 * [Golan's Notes (2022)](https://golancourses.net/2022f/daily-notes/unit-4-internet-readymades/)
 * [Paolo's Lecture](https://mycours.es/digitalmedia/internet-ready-mades/)
 * [Paolo's Assignment](https://mycours.es/digitalmedia/internet-ready-made-assignment-and-resources/)
+* https://web.archive.org/web/20240414170359/https://mycours.es/digitalmedia/internet-ready-mades/
 
 #### Single-Serving Website Tools: 
 
