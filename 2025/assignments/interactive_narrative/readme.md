@@ -44,7 +44,7 @@ This unit extends through Tuesday April 1st, and has five deliverables:
 *Now:*
 
 * **Play through** a variety of games linked from the sites above.
-* **Select** three (3) games that you find compelling.
+* **Select** three (3) games that you find intriguing or compelling.
 * **Create** a post in the Discord channel `#3-1-looking-outwards`. In the post, 
 * **State** the title and URL of each of your chosen games. 
 * **Write** one or two sentences for each game, explaining what you appreciate about them and why they are worth playing. **Highlight** some idea, solution or trick you could potentially apply to your story.
@@ -98,10 +98,10 @@ For the remainder of this Unit, you will develop an experience using Bitsy, such
 
 #### Requirements: 
 
-1. Your project must be playable in 5 minutes or less – think quality not quantity.
-2. Your project must have some degree of non-linearity – don’t make me advance through a slideshow.
-3. Your project must be published to the Itch.io website.
-4. Your project must be documented in a video playthrough.
+1. Your project must be playable in **5 minutes or less** – think quality not quantity.
+2. Your project must have some degree of **non-linearity** – don’t make me advance through a slideshow.
+3. Your project must be **published** to the Itch.io website.
+4. Your project must be **documented** in a video playthrough.
 
 #### Your work will be divided in three phases: 
 
@@ -175,9 +175,12 @@ To arrive at the idea for your project, consider how you might retell the story 
 * (2 minutes) Briefly (re)-**Scan** [this collection of tutorials](https://www.youtube.com/playlist?list=PLlXuD3kyVEr6bprFqUBCOEWT47xqYmVQ4), which shows you how to achieve some advanced tricks that are well-supported within Bitsy (such as conditional dialogue)
 * (2 minutes) Briefly **Scan** [this collection of Bitsy hacks](https://github.com/seleb/bitsy-hacks/blob/main/README.md), which shows some of the ways in which the open-source community have extended the functionality of Bitsy. *Be aware that it can be frustrating/challenging to get some of these hacks to work properly.*
 * (5 minutes) Briefly **Scan** some of the [games made by previous students in this course](https://github.com/golanlevin/60-120/blob/main/2025/lectures/interactive_narrative/some_bitsy_games.md#cmu-student-bitsy-projects), to get a feel for what it's possible for an CMU art student to achieve in a couple of weeks.
+* **Conceive** two different ideas for a short Bitsy game elaborating on your theme. 
+* **Make** a single room in Bitsy that is representative of the style, the dialogue and the vibe of your possible game(s). Don’t get too attached to this room: This is strictly for you to get acquainted with the tool, to do a vibe check, and to understand how long it takes to make things.
 * **Create** a post in the Discord channel, `#3-3-research`
-* **Describe** between 1-3 ideas (or possible versions) of your project. **Mention** themes, concepts, and/or techniques you'd like to explore. 
-
+* In your post, **Describe** your two different project ideas. 
+* **Mention** concepts and/or techniques you'd like to explore.
+* **Include** an image of the room you made. 
 
 ---
 
@@ -188,8 +191,8 @@ To arrive at the idea for your project, consider how you might retell the story 
 
 On Tuesday March 25, you will present your draft to a small group of peers in the class for playtesting and feedback.
 
-* **Plan** out your project using a storyboard and graph paper. Keep your drawings/notes.
-* You are **strongly advised** to export and save intermediate copies of your work frequently.
+* To get started, **Plan** out your project using a storyboard and graph paper. Keep your drawings/notes. Plan all of your rooms on paper, including sprites, NPC dialogue, etc.
+* You are **strongly advised** to export and save intermediate copies of your work *frequently*.
 * You should anticipate that you may need to do some additional research, specific to your project, about how to use advanced features of the Bitsy environment (e.g. variables) that may not have been covered in the previous Tutorial.
 * **NOTE**: Adding recorded audio/music beyond Bitsy's chiptunes can be tricky, and involves integrating “hacks” that are described [here](https://candle.itch.io/bitsy-audio), [here](https://kool.tools/bitsy/tools/bitsymuse-ui/), and in documentation [here](https://github.com/seleb/bitsy-hacks/blob/main/dist/bitsymuse.js). I strongly advise you to learn how to add sound to a test/scratchpad project before March 25. To make this easier, some students have recommended switching to [Bitsy Savior](https://aloelazoe.itch.io/bitsy-savior), a standalone Bitsy editing tool, instead of developing your project in the web browser.
 

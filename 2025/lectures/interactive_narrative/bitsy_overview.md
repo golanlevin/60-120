@@ -37,7 +37,7 @@ As Adam points out, Bitsy includes a map editor, sprite editor, palette tool, di
 
 ---
 
-### FriendlyCosmonautDev's Case Study
+### A Case Study by FriendlyCosmonautDev
 
 [Case Study: Turning a Greek Myth into a Game with Bitsy](https://www.youtube.com/watch?v=UL68vKUZzJc&t=31s) (0:31—12:30 @1.2x)
 

@@ -1,4 +1,4 @@
-# Interactive Narrative History
+# Interactive Narrative: A Survey
 
 Recovered from [here](https://web.archive.org/web/20231128123714/https://golancourses.net/60120/daily-notes/unit-3-interactive-narrative/interactive-narrative-history/)
 
