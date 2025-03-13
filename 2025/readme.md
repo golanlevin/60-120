@@ -37,6 +37,7 @@
 * `Tue 02/25`: [Creative Coding workday](daily_notes/0225.md)
 * `Thu 02/27`: [Pattern & Tracking Projects; Looking ahead](daily_notes/0227.md)
 * `Tue 03/11`: [Interactive Narrative: Hello Bitsy](daily_notes/0311.md)
+* `Thu 03/13`: [Bitsy Tutorial](daily_notes/0313.md)
 
 ## Assignments and Due Dates
 
