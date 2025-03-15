@@ -42,7 +42,7 @@ Once you add this hack to your game, you'll lose this work if you try uploading 
 
 ## Example
 
-You can study a working example in [this minimal game](directional-avatar-game.html). The hack begins at line 11960, and ends at line 12357 in the game's HTML file.
+You can study a working example in [this minimal game](directional_avatar_game.html). The hack begins at line 11960, and ends at line 12357 in the game's HTML file.
 
 
 
