@@ -97,6 +97,6 @@ var hackOptions = {
 
 * You can study a working example in [this minimal game](bitsymuse_audio_game.html). 
 * This game is silent in room 0, plays wind sounds in room 1, and river sounds in room 2. 
-
+* [**Live version**](https://raw.githack.com/golanlevin/60-120/main/2025/lectures/interactive_narrative/bitsy_hacks/bitsy_audio/bitsymuse_audio_game.html)
 
 
