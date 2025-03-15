@@ -56,7 +56,7 @@ This unit extends through Tuesday April 1st, and has five deliverables:
 
 ![bitsy-tutorials.png](img/bitsy-tutorials.png)
 
-#### **NOTE!** This tutorial exercise is **purely technical**. A creatively-imagined game is **NOT** requested here.
+#### **NOTE!** This tutorial exercise is **purely technical**. Feel free to amuse yourself, but a creatively-imagined game is not requested here.
 
 *(This is due before class on Tuesday March 18. Estimated time: ~2 hours.)* 
 
@@ -169,7 +169,7 @@ To arrive at the idea for your project, consider how you might retell the story 
 
 ### Research Work
 
-*Now*, for Thursday, March 20, please do the following: 
+*Now*, for Thursday, March 20, **please do the following**: 
 
 * (10 minutes) **Read** this brief article on [*Standard Patterns in Choice-Based Games*](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/) (10 minute read)
 * (2 minutes) Briefly (re)-**Scan** [this collection of tutorials](https://www.youtube.com/playlist?list=PLlXuD3kyVEr6bprFqUBCOEWT47xqYmVQ4), which shows you how to achieve some advanced tricks that are well-supported within Bitsy (such as conditional dialogue)
