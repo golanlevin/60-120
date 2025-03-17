@@ -81,7 +81,7 @@ var hackOptions = {
 };
 ```
 
-* **Note** that you need to assign sounds to room *ID numbers*, and *not* the room names. You can find out a room's ID number by reading through the code near the top of your game's HTML file. Here you can see that my room named `roomTwo` has the ID number `2`:
+* **Note** that you need to assign sounds to room *ID numbers*, and *not* the room names. You can find out a room's ID number by reading through the code near the top of your game's HTML file. Here you can see that my room named `roomTwo` has the ID number `2` (in line 71):
 
 ![room-code-screenshot.png](img/room-code-screenshot.png)
 
