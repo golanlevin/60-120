@@ -173,7 +173,6 @@ To arrive at the idea for your project, consider how you might retell the story 
 
 * (10 minutes) **Read** this brief article on [*Standard Patterns in Choice-Based Games*](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/) (10 minute read)
 * (2 minutes) Briefly (re)-**Scan** [this collection of tutorials](https://www.youtube.com/playlist?list=PLlXuD3kyVEr6bprFqUBCOEWT47xqYmVQ4), which shows you how to achieve some advanced tricks that are well-supported within Bitsy (such as conditional dialogue)
-* (2 minutes) Briefly **Scan** [this tutorial on Variables](https://ayolland.itch.io/trevor/devlog/29520/bitsy-variables-a-tutorial), which is recommended.
 * (2 minutes) Briefly **Scan** [this collection of Bitsy hacks](https://github.com/seleb/bitsy-hacks/blob/main/README.md), which shows some of the ways in which the open-source community have extended the functionality of Bitsy. *Be aware that it can be a little tricky to get some of these hacks to work properly.*
 * (5 minutes) Briefly **Scan** some of the [games made by previous students in this course](https://github.com/golanlevin/60-120/blob/main/2025/lectures/interactive_narrative/some_bitsy_games.md#cmu-student-bitsy-projects), to get a feel for what it's possible for an CMU art student to achieve in a couple of weeks.
 * **Conceive** two different ideas for a short Bitsy game elaborating on your theme. 

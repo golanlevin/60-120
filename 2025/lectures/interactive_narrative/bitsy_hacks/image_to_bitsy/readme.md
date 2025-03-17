@@ -3,18 +3,20 @@
 
 ![haunted_castle2_dithered_set.png](haunted_castle2/haunted_castle2_dithered_set.png)
 
-*We will convert images to Bitsy rooms using Photoshop, [Dithermark](https://app.dithermark.com/), and the (old) [Image-to-bitsy tool](https://tinybird.info/image-to-bitsy/old/). Instructions work as of 3/2025.*
+*We will convert images to Bitsy rooms using Photoshop, [Dithermark](https://app.dithermark.com/), and the (v.5) [Image-to-Bitsy tool](https://tinybird.info/image-to-bitsy/old/). Instructions work as of 3/2025.*
 
-### Overview: 
+### Overview:
+
+*(If you're in a hurry, you can skip steps 1 and 2, since the Image-to-Bitsy tool can also scale/crop and dither; it just offers limited options for doing so.)* 
 
 1. Using Photoshop (or another image editor), **crop** your source image to square and **resize** it to 128x128 pixels.
 2. Using [Dithermark](https://app.dithermark.com/) (or another halftoning tool), **dither** your 128x128 color image into a black-and-white version.
-3. Using the [Image-to-bitsy tool](https://tinybird.info/image-to-bitsy/old/), **convert** your dithered 128x128 image into a Bitsy room and tiles, and **paste** these into your game data. 
+3. Using the [Image-to-Bitsy tool](https://tinybird.info/image-to-bitsy/old/), **convert** your dithered 128x128 image into a Bitsy room and tiles, and **paste** these into your game data. 
 
 ### Warnings:
 
-* Very attentive care is required in adding the resulting tiles to your game data. Small errors can cause corruption of your game data, and/or Bitsy game engine crashes. Be sure to have a backup of your game data. 
-* Adding images with complex dithering can add a lot of tiles. This may significantly slow down Bitsy room transitions. It can also make hand-editing your rooms more unwieldy, since there may now be hundreds more tiles to scroll through in the user interface.
+* Very attentive care is required in adding the resulting tiles to your game data. Small errors can cause corruption of your game data, and/or Bitsy game engine crashes. Follow instructions carefully, and be sure to have a backup of your game data. 
+* Adding images with complex dithering can add a lot of tiles. This may significantly slow down Bitsy room transitions. It can also make subsequent hand-editing of your rooms more unwieldy, since there may now be hundreds more tiles to scroll through in the user interface.
 
 
 ---
@@ -64,7 +66,7 @@ The expectation here is that you probably want to add a new image-room to a game
 5. **Click** the *Choose File* button in the second ("image") section, and **upload** your dithered, black-and-white, 128x128 pixel image. 
 6. **Ignore** the "brightness" and "create new tiles" sliders. *(Technically, you could have done the scaling, cropping, and dithering entirely with this tool, but the workflow described above gives you better control and more creative options. If you want to use this tool for cropping and dithering, then these sliders would be helpful.)*
 7. **Click** the *write to game data* button. This will inject a new room, and potentially hundreds of new tiles, into your game data. 
-8. **WARNING:** *IF* the highest-numbered room in your initial game data had a `TUNE` field set, *then* a small correction must now be made to your game data in order to avoid a corruption. **Follow** these special instructions: 
+8. **WARNING:** — ***IF*** the highest-numbered room in your initial game data had a `TUNE` field set, *then* a small correction must now be made to your game data in order to avoid a corruption. Under these circumstances, **follow** these special instructions: 
   * Suppose that the highest-numbered room — say, `ROOM 1` in your *initial* game data (i.e. *before* you injected the new dithered room and tiles) had previously specified `TUNE 3` as its soundtrack. Unfortunately, the Image-to-Bitsy tool has *moved* the `TUNE 3` code *after* the new dithered room (e.g. `ROOM 2`). Additionally, the tool has also introduced an extra newline character which corrupts the file. To fix this, 
   * **Find** and **cut** the `TUNE 3` command which has been relocated after the new room
   * **Restore** the `TUNE 3` command to its original location after `ROOM 1`, taking care to place it immediately after the `ROOM 1` data, with no extra gap line. It should look like this: <br />
@@ -99,6 +101,8 @@ ROOM 2
 You can study a working example here: [**Live version**](https://raw.githack.com/golanlevin/60-120/main/2025/lectures/interactive_narrative/bitsy_hacks/image_to_bitsy/image_to_bitsy_test.html).
 
 ![game_screenshot.png](haunted_castle1/game_screenshot.png)
+
+[*pre-mod game file*](pre_hacked_game.bitsy)
 
 ### Additional Notes
 
