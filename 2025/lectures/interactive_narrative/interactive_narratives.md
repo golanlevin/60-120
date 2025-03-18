@@ -107,7 +107,7 @@ ELIZA is an early natural language processing computer program, developed by Jos
 [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) (1975-1977) was the first nonlinear text-based adventure game software. Try it out.<br />
 ![colossal_cave_adventure.png](img/colossal_cave_adventure.png)
 
-*ZORK* (1977-1979) [Try it out.](https://web.archive.org/web/20231128123714/http://textadventures.co.uk/games/play/5zyoqrsugeopel3ffhz_vq)<br />
+*ZORK* (1977-1979) [Try it out.](http://textadventures.co.uk/games/play/5zyoqrsugeopel3ffhz_vq)<br />
 Zork is an interactive fiction computer game, released as a commercial game for personal computers.<br />
 ![zork1.jpg](img/zork1.jpg)
 
