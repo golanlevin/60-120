@@ -38,7 +38,8 @@
 * `Thu 02/27`: [Pattern & Tracking Projects; Looking ahead](daily_notes/0227.md)
 * `Tue 03/11`: [Interactive Narrative: Hello Bitsy](daily_notes/0311.md)
 * `Thu 03/13`: [Bitsy Tutorial](daily_notes/0313.md)
-* `Thu 03/18`: [Interactive Narrative & Bitsy Hacks](daily_notes/0318.md)
+* `Tue 03/18`: [Interactive Narrative & Bitsy Hacks](daily_notes/0318.md)
+* `Thu 03/20`: [Bitsy Work (continued)](daily_notes/0320.md)
 
 ## Assignments and Due Dates
 
