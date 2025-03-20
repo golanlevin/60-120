@@ -66,8 +66,8 @@
 * `Thu 03/13`: Due: [3.1. Looking Outwards: Bitsy Games](assignments/interactive_narrative/readme.md#31-looking-outwards)
 * `Tue 03/18`: Due: [3.2. Bitsy Tutorial](assignments/interactive_narrative/readme.md#32-bitsy-tutorial)
 * `Thu 03/20`: Due: [3.3. Research Phase](assignments/interactive_narrative/readme.md#33-research-phase) 
-* `Tue 03/25`: Due: [3.4. Draft of Interactive Narrative/Game](assignments/interactive_narrative/readme.md#34-draft-of-interactive-narrativegame)
-* `Thu 03/27`: *Work session*
+* `Tue 03/25`: *Work Session* (mostly)
+* `Thu 03/27`: Due: [3.4. Playtest Draft of Interactive Narrative/Game](assignments/interactive_narrative/readme.md#34-draft-of-interactive-narrativegame)
 * `Tue 04/01`: **Due:** [**3.5. Interactive Narrative/Game**](assignments/interactive_narrative/readme.md#35-interactive-narrative-game).
 * *`Thu 04/03`*: *No session (Spring Carnival)*
 * `---------`

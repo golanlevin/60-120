@@ -9,7 +9,7 @@ This unit extends through Tuesday April 1st, and has five deliverables:
 * [**3.1. Looking Outwards: Bitsy Games**](#31-looking-outwards) *(due Thursday, March 13; ~1.5 hours)*
 * [**3.2. Bitsy Tutorial**](#32-bitsy-tutorial) *(due Tuesday, March 18; ~2 hours)*
 * [**3.3. Research Phase**](#33-research-phase) *(due Thursday, March 20; ~1 hour)*
-* [**3.4. Draft of Interactive Narrative/Game**](#34-draft-of-interactive-narrativegame) *(due Tuesday, March 25; ~6 hours)*
+* [**3.4. Draft of Interactive Narrative/Game**](#34-draft-of-interactive-narrativegame) *(due Thursday, March 27; ~6 hours)*
 * [**3.5. Interactive Narrative/Game**](#35-interactive-narrative-game) *(Main project; due Tuesday, April 1; ~10 hours)*
 
 ![bitsy_mystery_dungeon.png](img/bitsy_mystery_dungeon.png)
@@ -186,10 +186,10 @@ To arrive at the idea for your project, consider how you might retell the story 
 
 # 3.4. *Draft* of Interactive Narrative/Game
 
-*(This is due Tuesday, March 25. Estimated time: 6 hours.)*
+*(This is due Thursday, March 27. Estimated time: 6 hours.)*
 
 
-On Tuesday March 25, you will present your draft to a small group of peers in the class for playtesting and feedback.
+On Thursday March 27, you will present your draft to a small group of peers in the class for playtesting and feedback.
 
 * To get started, **Plan** out your project using a storyboard and graph paper. Keep your drawings/notes. Plan all of your rooms on paper, including sprites, NPC dialogue, etc.
 * You are **strongly advised** to export and save intermediate copies of your work *frequently*.
