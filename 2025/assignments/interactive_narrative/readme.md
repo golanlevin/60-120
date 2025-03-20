@@ -209,7 +209,7 @@ Now:
 
 ---
 
-## 3.5. Interactive Narrative Game
+# 3.5. Interactive Narrative Game
 
 ![bits.png](img/bits.png)
 
