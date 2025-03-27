@@ -41,6 +41,7 @@
 * `Tue 03/18`: [Interactive Narrative & Bitsy Hacks](daily_notes/0318.md)
 * `Thu 03/20`: [Bitsy Work (continued)](daily_notes/0320.md)
 * `Tue 03/25`: [Bitsy Work (continued): hacks](daily_notes/0325.md)
+* `Tue 03/27`: [Bitsy playtesting](daily_notes/0327.md)
 
 ## Assignments and Due Dates
 
