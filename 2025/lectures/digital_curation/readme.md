@@ -31,9 +31,9 @@ In this brief unit, we will conduct deep research into a subculture, sub-genre, 
 
 ![1-duchamp.jpg](img/1-duchamp.jpg)
 
-We present a type of Dadaist artwork known as the found object (from the French *objet trouvé*), found art, or ready-made (a term coined by Marcel Duchamp). The primary principles of the Dada readymade philosophy were to:
+We consider a type of Dadaist artwork known as the *found object* (from the French *objet trouvé*), found art, or ready-made (a term coined by Marcel Duchamp). The primary principles of the Dada readymade philosophy were to:
 
-1. **choose** an object, a creative act in itself; 
+1. **choose** an object — a creative act in itself; 
 2. **cancel** that object’s familiar purpose by presenting it not in its usual functionary role but *defamiliarized*, as a work of “art”; and 
 3. **title** the artwork, in such a way as to potentially provoke a new thought or meaning. 
 

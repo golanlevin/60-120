@@ -70,11 +70,11 @@
 * `Thu 03/20`: Due: [3.3. Research Phase](assignments/interactive_narrative/readme.md#33-research-phase) 
 * `Tue 03/25`: *Work Session* (mostly)
 * `Thu 03/27`: Due: [3.4. Playtest Draft of Interactive Narrative/Game](assignments/interactive_narrative/readme.md#34-draft-of-interactive-narrativegame)
-* `Tue 04/01`: **Due:** [**3.5. Interactive Narrative/Game**](assignments/interactive_narrative/readme.md#35-interactive-narrative-game).
+* `Tue 04/01`: **Due:** [**3.5. Interactive Narrative/Game**](assignments/interactive_narrative/readme.md#35-interactive-narrative-game)
 * *`Thu 04/03`*: *No session (Spring Carnival)*
 * `---------`
-* `Tue 04/08`: Due: 4.1. Internet Curation Materials
-* `Thu 04/10`: **Due: 4.2. Internet Curation Speed Project**
+* `Tue 04/08`: 
+* `Thu 04/10`: **Due: [4. Internet Curation Speed Project](assignments/digital_curation/readme.md)**
 * `---------`
 * `Tue 04/15`: Due: 5.1. Looking Outwards: TouchDesigner
 * `Thu 04/17`: 
