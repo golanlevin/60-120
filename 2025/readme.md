@@ -43,6 +43,7 @@
 * `Tue 03/25`: [Bitsy Work (continued): hacks](daily_notes/0325.md)
 * `Tue 03/27`: [Bitsy playtesting](daily_notes/0327.md)
 * `Tue 04/08`: [Digital Curation](daily_notes/0408.md)
+* `Tue 04/10`: [Wrap units 3 & 4, Intro 5](daily_notes/0410.md)
 
 ## Assignments and Due Dates
 
