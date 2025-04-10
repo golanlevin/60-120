@@ -78,12 +78,12 @@
 * `Tue 04/08`: 
 * `Thu 04/10`: **Due: [4. Internet Curation Speed Project](assignments/digital_curation/readme.md)**
 * `---------`
-* `Tue 04/15`: Due: 5.1. Looking Outwards: TouchDesigner
-* `Thu 04/17`: 
-* `Tue 04/22`: Due: 5.2. TouchDesigner Tutorial
+* `Tue 04/15`: [Due: 5.1, 5.2](assignments/audiovisual_environment/readme.md) 
+* `Thu 04/17`: [Due: 5.3](assignments/audiovisual_environment/readme.md)
+* `Tue 04/22`: [Due: 5.4](assignments/audiovisual_environment/readme.md)
 * `Thu 04/24`: 
 * *`Tue 04/29`*: *Out-of-class help session*
 * *`Thu 05/01`*: *Out-of-class help session*
-* `Mon 05/05`: **Due: 5.3. Audiovisual System**
+* `Mon 05/05`: [**Due: 5.5. Audiovisual System**](assignments/audiovisual_environment/readme.md)
 
 
