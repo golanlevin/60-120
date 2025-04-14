@@ -78,8 +78,8 @@ We are still learning the basics. For Tuesday, April 22, **do** the following:
  
 Then: **follow along** and **execute** these two TouchDesigner tutorial projects, shown below:
 
-* **Do**: [Organic Color Tunnel](https://web.archive.org/web/20241009230245/https://www.youtube.com/watch?v=gHPrDMqOmJ0) (30-60 minutes)
-* **Do**: [Instancing Geometry with Mouse Interactivity](https://web.archive.org/web/20241009230245/https://www.youtube.com/watch?v=SJZIMGg-thY) (60-90 minutes)
+* **Do**: [Organic Color Tunnel](https://www.youtube.com/watch?v=gHPrDMqOmJ0) (30-60 minutes)
+* **Do**: [Instancing Geometry with Mouse Interactivity](https://www.youtube.com/watch?v=SJZIMGg-thY) (60-90 minutes)
 
 *Now,* in a Discord post in the `#5-4-warmup` channel, please do the following:
 
