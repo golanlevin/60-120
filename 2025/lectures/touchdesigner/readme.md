@@ -1,4 +1,6 @@
-# TouchDesigner Lecture Notes
+# TouchDesigner Lecture Notes I
+
+**Lecture notes for Tuesday, April 15**
 
 *By Em Lugo*
 
