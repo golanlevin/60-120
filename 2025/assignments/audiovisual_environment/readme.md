@@ -63,12 +63,12 @@ Touchdesigner is an authoring tool for high-performance interactive graphics sys
   6. [Working with TOPs](https://learn.derivative.ca/courses/100-fundamentals/lessons/101-navigating-the-environment/topic/working-with-tops/)
   7. [Working with CHOPs](https://learn.derivative.ca/courses/100-fundamentals/lessons/101-navigating-the-environment/topic/working-with-chops/)
 
-  
+
 ---
 
 ## 5.4. TouchDesigner Warmup
 
-*(1.5-2.5 hours. Exercise designed by Em Lugo.)*
+*Due Tuesday April 22; 1.5-2.5 hours. Exercise designed by Em Lugo.*
 
 We are still learning the basics. For Tuesday, April 22, **do** the following:
 
@@ -85,6 +85,11 @@ Then: **follow along** and **execute** these two TouchDesigner tutorial projects
 
 * **Embed** a brief moving image (screen-captured video, animated GIF, or unlisted YouTube link) for each of the two project tutorials. It doesn’t have to be a lengthy video; I just need to see receipts.
 * **Write** a sentence or two about your experience. What do you appreciate about TouchDesigner? What concerns or confusions do you have? Did you tinker with the project, and if so, how?
+
+[![Organic Color Tunnel](https://img.youtube.com/vi/gHPrDMqOmJ0/hqdefault.jpg)](https://www.youtube.com/watch?v=gHPrDMqOmJ0)<br /><small>[Tutorial: Organic Color Tunnel](https://www.youtube.com/watch?v=gHPrDMqOmJ0)</small>
+
+[![Instancing Geometry](https://img.youtube.com/vi/SJZIMGg-thY/hqdefault.jpg)](https://www.youtube.com/watch?v=SJZIMGg-thY)
+<br /><small>[Tutorial: Instancing Geometry with Mouse Interactivity](https://www.youtube.com/watch?v=SJZIMGg-thY)</small>
 
 
 ---
@@ -103,7 +108,7 @@ As you develop your project, consider whether there are visual parameters that y
 
 *Now:*
 
-* (3 minutes) **Browse** these brief video documentations of artworks by others: [one](https://www.youtube.com/watch?v=_AuGX_TBDnI), [two](https://www.youtube.com/watch?v=e6tSht38gNs), [three](https://www.youtube.com/watch?v=b8RfdTC8UlY), [four](https://www.youtube.com/watch?v=uhZfnWsjr8Y)
+* (3 minutes) **Browse** these brief video documentations of artworks by others: **[one](https://www.youtube.com/watch?v=_AuGX_TBDnI), [two](https://www.youtube.com/watch?v=e6tSht38gNs), [three](https://www.youtube.com/watch?v=b8RfdTC8UlY), [four](https://www.youtube.com/watch?v=uhZfnWsjr8Y)**
 * (15 minutes) **Watch** the two tutorials below, to give you some additional ideas about what’s possible.
 * **Create** a Discord post for your project, in the channel `#5-5-audiovisual` system.
 * **Develop** an audio-reactive composition, as discussed above.
@@ -111,4 +116,8 @@ As you develop your project, consider whether there are visual parameters that y
 * **Embed** a link to the video of your project. An ideal format would be an unlisted Youtube video. If you decide to use a Box or Google drive link, make absolutely sure that the link is set to public.
 * **Write** a few sentences about your project. How would you describe the mappings you established? What do you like best about the project?
 
+#### Additional Tutorial
+
+[![audiovisual spectrum shape](https://img.youtube.com/vi/jf718jbSoTU/hqdefault.jpg)](https://www.youtube.com/watch?v=jf718jbSoTU)
+<br /><small>[How to make spectrum shape audiovisual using feedback in Touchdesigner](https://www.youtube.com/watch?v=jf718jbSoTU)</small>
 
