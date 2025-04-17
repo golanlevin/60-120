@@ -2,11 +2,12 @@
 
 ---
 
-* 5.1. **Due Tuesday 4/15; 30-45 minutes:** Be Prepared for Class! 
-* 5.2. **Due Tuesday 4/15; 30-45 minutes:** Looking Outwards
-* 5.3. **Due Thursday 4/17: 60-90 minutes:** Introductory Tutorials
-* 5.4. **Due Tuesday 4/22: 1.5-2.5 hours:** TouchDesigner Warmup
-* 5.5. **Due Monday 5/5: 10-12 hours:** Audioreactive Environment
+
+* 5.1. **Due Tuesday 4/15; 30-45 minutes:** [Be Prepared for Class!](#51-be-prepared-for-class-on-tuesday-415)
+* 5.2. **Due Tuesday 4/15; 30-45 minutes:** [Looking Outwards](#52-looking-outwards-touchdesigner)
+* 5.3. **Due Thursday 4/17: 60-90 minutes:** [Introductory Tutorials](#53-do-these-introductory-tutorials)
+* 5.4. **Due Tuesday 4/22: 1.5-2.5 hours:** [TouchDesigner Warmup](#54-touchdesigner-warmup)
+* 5.5. **Due Monday 5/5: 10-12 hours:** [Audioreactive Environment](#55-audioreactive-environment)
 
 [![av_banner.gif](av_banner.gif)](https://www.youtube.com/watch?app=desktop&v=SbYtIiZdrew)<br />*[The improvisation of water](The improvisation of water (2023) )* (2023) by Ahyun Cho
 
