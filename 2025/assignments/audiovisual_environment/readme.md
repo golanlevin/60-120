@@ -116,8 +116,14 @@ As you develop your project, consider whether there are visual parameters that y
 * **Embed** a link to the video of your project. An ideal format would be an unlisted Youtube video. If you decide to use a Box or Google drive link, make absolutely sure that the link is set to public.
 * **Write** a few sentences about your project. How would you describe the mappings you established? What do you like best about the project?
 
-#### Additional Tutorial
+#### Additional Tutorials
 
 [![audiovisual spectrum shape](https://img.youtube.com/vi/jf718jbSoTU/hqdefault.jpg)](https://www.youtube.com/watch?v=jf718jbSoTU)
 <br /><small>[How to make spectrum shape audiovisual using feedback in Touchdesigner](https://www.youtube.com/watch?v=jf718jbSoTU)</small>
 
+[![audiovisual spectrum shape](https://img.youtube.com/vi/QPzYNAyxC70/hqdefault.jpg)](https://www.youtube.com/watch?v=QPzYNAyxC70)
+<br /><small>[Audio Wheel – TouchDesigner Tutorial 1](https://www.youtube.com/watch?v=QPzYNAyxC70)</small>
+
+---
+
+EOF
