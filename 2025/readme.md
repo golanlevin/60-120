@@ -44,7 +44,7 @@
 * `Thu 03/27`: [Bitsy playtesting](daily_notes/0327.md)
 * `Tue 04/08`: [Digital Curation](daily_notes/0408.md)
 * `Thu 04/10`: [Wrap units 3 & 4, Intro 5](daily_notes/0410.md)
-* `Tue 04/15`: [Introduction to TouchDesigner I](lectures/touchdesigner/readme.md)
+* `Tue 04/15`: [Introduction to TouchDesigner I](lectures/touchdesigner/4_15_lecture_notes.md)
 * `Thu 04/17`: [Further into TouchDesigner](daily_notes/0417.md)
 
 ## Assignments and Due Dates
