@@ -84,7 +84,7 @@ Then: **follow along** and **execute** these two TouchDesigner tutorial projects
 
 *Now,* in a Discord post in the `#5-4-warmup` channel, please do the following:
 
-* **Embed** a brief moving image (screen-captured video, animated GIF, or unlisted YouTube link) for each of the two project tutorials. It doesn’t have to be a lengthy video; I just need to see receipts.
+* **Embed** a brief moving image (screen-captured video, animated GIF, or unlisted YouTube link) for each of the two project tutorials. It doesn’t have to be a fancy or lengthy video; I just need to see receipts. (However, if you'd like to know how to export a noce clean video, follow [this tutorial](https://www.youtube.com/watch?v=G01ZRJpkDCA).)
 * **Write** a sentence or two about your experience. What do you appreciate about TouchDesigner? What concerns or confusions do you have? Did you tinker with the project, and if so, how?
 
 [![Organic Color Tunnel](https://img.youtube.com/vi/gHPrDMqOmJ0/hqdefault.jpg)](https://www.youtube.com/watch?v=gHPrDMqOmJ0)<br /><small>[Tutorial: Organic Color Tunnel](https://www.youtube.com/watch?v=gHPrDMqOmJ0)</small>
