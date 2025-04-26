@@ -101,7 +101,8 @@ Then: **follow along** and **execute** these two TouchDesigner tutorial projects
 
 For this project, you will develop an “audio-reactive” visual composition. Your project should use audio in at least two ways to either generate or modify a graphic. It will help to:
 
-* **Identify** some suitable audio. Given the tools you have available, instrumental rhythmic music may work best, but that’s just a suggestion, not a requirement. Edit and/or trim your audio to produce a clip that’s about 1-3 minutes long.
+* **Consider** conceptual possibilities such as: making a music video, making a visual accompaniment for a live performance, making an ambient display, etc. 
+* **Identify** some suitable audio. Given the tools you have available, instrumental rhythmic music may work best, but that’s just a suggestion, not a requirement. Edit and/or trim your audio to produce a clip that’s about 1-3 minutes long. 
 * **Study** project examples to understand what sorts of signals you can obtain from audio (such as amplitude from certain frequency bands).
 * **Identify** a set of visual parameters you want the audio signals to control (such as the color, position, displacement, etc. of a visual design).
 
@@ -112,8 +113,8 @@ As you develop your project, consider whether there are visual parameters that y
 * (3 minutes) **Browse** these brief video documentations of artworks by others: **[one](https://www.youtube.com/watch?v=_AuGX_TBDnI), [two](https://www.youtube.com/watch?v=e6tSht38gNs), [three](https://www.youtube.com/watch?v=b8RfdTC8UlY), [four](https://www.youtube.com/watch?v=uhZfnWsjr8Y)**
 * (15 minutes) **Watch** the two tutorials below, to give you some additional ideas about what’s possible.
 * **Create** a Discord post for your project, in the channel `#5-5-audiovisual` system.
-* **Develop** an audio-reactive composition, as discussed above.
-* **Record** a screen-captured video of your project. (Make sure it includes the sound!) **Make sure** your video is “full-screen” and does not show the TouchDesigner program network.
+* **Develop** an audio-reactive composition, as discussed above. For a detailed overview of the TouchDesigner audio-analysis tool, see these videos by: [Torin Blankensmith](https://www.youtube.com/watch?v=R7sAomk2vR4), [Interactive and Immersive HQ](https://www.youtube.com/watch?v=kcHhg9JXE90), and [Bileam Tschepe](https://www.youtube.com/watch?v=rGoCbVmGtPE).
+* **Record** a screen-captured video of your project. (Make sure it includes the sound!) Follow [this tutorial for exporting video](https://www.youtube.com/watch?v=G01ZRJpkDCA). **Make sure** your video is “full-screen” and does not show the TouchDesigner UI.
 * **Embed** a link to the video of your project. An ideal format would be an unlisted Youtube video. If you decide to use a Box or Google drive link, make absolutely sure that the link is set to public.
 * **Write** a few sentences about your project. How would you describe the mappings you established? What do you like best about the project?
 
@@ -122,7 +123,7 @@ As you develop your project, consider whether there are visual parameters that y
 [![audiovisual spectrum shape](https://img.youtube.com/vi/jf718jbSoTU/hqdefault.jpg)](https://www.youtube.com/watch?v=jf718jbSoTU)
 <br /><small>[How to make spectrum shape audiovisual using feedback in Touchdesigner](https://www.youtube.com/watch?v=jf718jbSoTU)</small>
 
-[![audiovisual spectrum shape](https://img.youtube.com/vi/QPzYNAyxC70/hqdefault.jpg)](https://www.youtube.com/watch?v=QPzYNAyxC70)
+[![Audio Wheel](https://img.youtube.com/vi/QPzYNAyxC70/hqdefault.jpg)](https://www.youtube.com/watch?v=QPzYNAyxC70)
 <br /><small>[Audio Wheel – TouchDesigner Tutorial 1](https://www.youtube.com/watch?v=QPzYNAyxC70)</small>
 
 ---
