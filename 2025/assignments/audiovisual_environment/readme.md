@@ -9,7 +9,7 @@
 * 5.4. **Due Tuesday 4/22: 1.5-2.5 hours:** [TouchDesigner Warmup](#54-touchdesigner-warmup)
 * 5.5. **Due Monday 5/5: 10-12 hours:** [Audioreactive Environment](#55-audioreactive-environment)
 
-[![av_banner.gif](av_banner.gif)](https://www.youtube.com/watch?app=desktop&v=SbYtIiZdrew)<br />*[The improvisation of water](The improvisation of water (2023) )* (2023) by Ahyun Cho
+[![av_banner.gif](av_banner.gif)](https://www.youtube.com/watch?app=desktop&v=SbYtIiZdrew)<br />*[The improvisation of water](https://www.youtube.com/watch?app=desktop&v=SbYtIiZdrew)* (2023) by Ahyun Cho
 
 ---
 
